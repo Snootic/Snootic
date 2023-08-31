@@ -3,9 +3,7 @@
 - 👨🏿‍💻Backend programmer;
 - 💻Finding my first job as a programmer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Snootic&theme=bear&background=000&border=4b0082&dates=FFF&ring=32174d&currStreakLabel=32174d&fire=40174d&sideLabels=17324d&sideNums=40174d&currStreakNum=17324d)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF) [![GitHub Streak](https://streak-stats.demolab.com/?user=Snootic&theme=bear&background=000&border=4b0082&dates=FFF&ring=32174d&currStreakLabel=32174d&fire=40174d&sideLabels=17324d&sideNums=40174d&currStreakNum=17324d)](https://git.io/streak-stats)
 
 ## Known languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
