@@ -7,7 +7,7 @@
 
 ## Known languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=java) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF)
+![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF)
 
 ## Contribuitions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Snootic&theme=bear&background=000&border=4b0082&dates=FFF&ring=32174d&currStreakLabel=32174d&fire=40174d&sideLabels=17324d&sideNums=40174d&currStreakNum=17324d)](https://git.io/streak-stats)
