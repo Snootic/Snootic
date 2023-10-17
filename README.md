@@ -1,8 +1,4 @@
-# Hey! I am Kaik Mendes
-- 🎓Student of analysis and system development;
-- 👨🏿‍💻Backend programmer;
-- 💻Finding my first job as a programmer.
-
+# Kaik Mendes
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF)
 
 ## Known languages
