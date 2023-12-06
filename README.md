@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-000?style=for-the-badge&logo=openjdk)
 
-## Contribuitions
+## Contributions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Snootic&theme=bear&background=000&border=4b0082&dates=FFF&ring=32174d&currStreakLabel=32174d&fire=40174d&sideLabels=17324d&sideNums=40174d&currStreakNum=17324d)](https://git.io/streak-stats)
 
 ## Social
