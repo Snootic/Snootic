@@ -5,7 +5,7 @@ Hi I'm a programmer enthusiat that is learning coding and finding my passion in 
 - ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
   A statistics calcultaor that makes tables and graphs assisting in mathematical equations.
 
-- ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/)
+- ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/):
   A program that unifies an diversifical number os tools and apps for miHoYo/Hoyoverse Games using APIs to communicate with them.
 
 ## Known languages
