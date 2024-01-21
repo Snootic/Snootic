@@ -1,5 +1,12 @@
 # Kaik Mendes
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF)
+Hi I'm a programmer enthusiat that is learning coding and finding my passion in making apps.
+
+### Notable Projetcts
+- ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
+  A statistics calcultaor that makes tables and graphs assisting in mathematical equations.
+
+- ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/)
+  A program that unifies an diversifical number os tools and apps for miHoYo/Hoyoverse Games using APIs to communicate with them.
 
 ## Known languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
