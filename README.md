@@ -3,7 +3,7 @@ Hi I'm a programmer enthusiat that is learning coding and finding my passion in 
 
 ### Notable Projetcts
 - ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
-  A statistics calcultaor that makes tables and graphs assisting in mathematical equations.
+  A statistics calculator that makes tables and graphs assisting in mathematical equations.
 - ![Sphynx Network Tools](https://github.com/snootic/sphynx_network_tools/):
   Network functionalities tools for ![Sphynx](https://github.com/pedrovidaldev/esp32-sphynx) and ![Sphynx Web](https://github.com/pedrovidaldev/sphynx_v2_frontend).
 - ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/):
