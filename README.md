@@ -1,4 +1,4 @@
-# Kaik Mendes
+# Kaik
 Hi I'm a programmer enthusiat that is learning coding and finding my passion in making apps.
 
 ### Notable Projetcts
