@@ -8,6 +8,8 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
   Acess control system using ESP32 and websockets to send data to a server via [Sphynx-API](https://github.com/cliyo/sphynx-api).
 - ![Sphynx-Finder](https://github.com/cliyo/sphynx-finder):
   Node.js module that runs a command to find local devices in the network to filter them by IP and MAC address for [Sphynx-Web](https://github.com/cliyo/sphynx-web)
+- ![Sphynx-Android](https://github.com/cliyo/sphynx-android):
+  The android version of Sphynx made with Kotlin.
 - ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/):
   A program that unifies an diversifical number of tools and apps for miHoYo/Hoyoverse Games using APIs to communicate with them.
 
