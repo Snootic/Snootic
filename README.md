@@ -6,8 +6,8 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
   Acess control system using ESP32 and websockets to send data to a server via [Sphynx-API](https://github.com/cliyo/sphynx-api).
 - ![Sphynx-Android](https://github.com/cliyo/sphynx-android):
   The android version of Sphynx made with Kotlin.
-- ![Hoyo Wrapper](https://github.com/snootic/hoyo_wrapper/):
-  A program that unifies an diversifical number of tools and apps for miHoYo/Hoyoverse Games using APIs to communicate with them.
+- ![Ai Translation tool](https://github.com/snootic/ai-office-translator/):
+  A program that aims to unify some AI models and tools APIs to translate an variety of files (incluind word, excel and powerpoint files) to any language specified.
 
 ### Other projects
 - ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
