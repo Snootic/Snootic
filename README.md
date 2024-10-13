@@ -3,7 +3,7 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
 
 ### Currently working in
 - ![Sphynx](https://github.com/cliyo/sphynx-esp32/):
-  Acess control system using ESP32 and websockets to send data to a server via [Sphynx-API](https://github.com/cliyo/sphynx-api).
+  Access control system using ESP32 and websockets to send data to a server via [Sphynx-API](https://github.com/cliyo/sphynx-api).
 - ![Ai Translation tool](https://github.com/snootic/ai-office-translator/):
   A program that aims to unify some AI models and tools APIs to translate an variety of files (incluind word, excel and powerpoint files) to any language specified.
 
