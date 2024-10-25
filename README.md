@@ -22,7 +22,10 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
 ## Contributions
 <div>
   <a href="https://github.com/Snootic"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF&include_all_commits=true"/>
-<!--   <img height="180em" width="500m" src="https://streak-stats.demolab.com/?user=Snootic&theme=bear&background=000&border=4b0082&dates=FFF&ring=32174d&currStreakLabel=32174d&fire=40174d&sideLabels=17324d&sideNums=40174d&currStreakNum=17324d"/> -->
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF"/>
+
+</div>
   </a><a href="https://github.com/Cliyo"><img src="https://avatars.githubusercontent.com/u/166717333?s=200&v=4" alt="Cliyo Group"></a>
 </div>
 
