@@ -9,9 +9,10 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
 
 ### Other projects
 - ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
-  - ![Sphynx-Face-Recognition](https://github.com/cliyo/face-recognition):
+  A statistics calculator that makes tables and graphs assisting in mathematical equations.
+- ![Sphynx Face-Recognition](https://github.com/cliyo/face-recognition):
   Face recognition system for Sphynx written in Python using face_recognition library, google-mediapipe, blaze_face and opencv. Made to be an optimal and secure face recognition system encrypting user data using cryptography.
-  - A statistics calculator that makes tables and graphs assisting in mathematical equations.
+ 
 
 
 ## Known languages
