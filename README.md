@@ -6,6 +6,8 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
   Access control system using ESP32 and websockets to send data to a server via [Sphynx-API](https://github.com/cliyo/sphynx-api). Supports RFID, NFC and Fingerprint.
 - ![Ai Translation tool](https://github.com/snootic/ai-office-translator/):
   A program written in Rust and Python that aims to unify some AI models and tools to translate an variety of files (incluind word, excel and powerpoint files) to any language specified without losing the original format.
+- ![Spotify Playlist Converter](https://github.com/Snootic/yt-stpfy-playlist-converter):
+  A tool to convert playlists for youtube and spotify. Convert playlists created on spotify to youtube and vice-versa without needing to manually search the songs!
 
 ### Other projects
 - ![Applicatas Mutant](https://github.com/snootic/applicatas-mutant/):
@@ -13,7 +15,6 @@ Hi I'm a programmer that is learning coding and finding my passion in making app
 - ![Sphynx Face-Recognition](https://github.com/cliyo/face-recognition):
   Face recognition system for Sphynx written in Python with face_recognition library, google-mediapipe, blaze_face and opencv. Made to be an optimal and secure face recognition system encrypting user data using cryptography.
  
-
 
 ## Known languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
