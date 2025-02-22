@@ -1,5 +1,5 @@
 # Kaik
-Hi I'm a programmer that is learning coding and finding my passion in making applications.
+A fellow openSUSE user and Persona enjoyer.
 
 ### Currently working in
 - ![Sphynx](https://github.com/cliyo/sphynx-esp32/):
