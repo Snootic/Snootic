@@ -20,8 +20,7 @@ A fellow openSUSE user and Persona enjoyer.
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snootic&theme=transparent&bg_color=000&border_color=4b0082&show_icons=true&icon_color=32174d&title_color=4b0082&text_color=FFF&include_all_commits=true"/>
   
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Snootic&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF&hide=css,html,Jupyter%20Notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&&size_weight=0.5&count_weight=0.5"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snootic&layout=compact&langs_count=7&bg_color=000&border_color=4b0082&title_color=32174d&text_color=FFF&hide=css,html,Jupyter%20Notebook&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&&size_weight=0.5&count_weight=0.5"/>
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kaikmen/)
