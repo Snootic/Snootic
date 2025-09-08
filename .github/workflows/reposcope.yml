@@ -25,8 +25,8 @@ jobs:
               shell: bash
               run: |
                   mkdir -p output
-                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }}
-
+                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} --excluded-languages ${{ secrets.EXCLUDED_LANGUAGES }}
+                  
             - name: Commit and Push updated SVGs
               shell: bash
               env:
