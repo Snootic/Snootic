@@ -4,7 +4,7 @@ export function createCard(name, title, available, R, BAR_H) {
   const cardCanvas = document.createElement("canvas");
   const W = 340;
   const H = 200;
-  const texScale = 1;
+  const texScale = 2;
   cardCanvas.width = W * texScale;
   cardCanvas.height = H * texScale;
   const ctx = cardCanvas.getContext("2d");

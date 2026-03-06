@@ -1,4 +1,6 @@
-use crate::structs::{Experience, Personal, PortfolioContent, Project, SkillCategory, Social, Stats};
+use crate::structs::{
+    Experience, Personal, PortfolioContent, Project, SkillCategory, Social, Stats,
+};
 
 pub fn get_content() -> PortfolioContent {
     PortfolioContent {
@@ -12,7 +14,7 @@ pub fn get_content() -> PortfolioContent {
             phone: "+55 (11) 96139-5863",
             location: "São Paulo, Brazil",
             availability: "Available for new projects",
-            resume_url: "https://resources.coisas-mais-estranhas.com.br/api/public/dl/cFA5b3Ey?inline=true",
+            resume_url: "https://resources.coisas-mais-estranhas.com.br/public/share/IqstPFk3gUCHExiZjH4OUQ",
         },
         social: Social {
             github: "https://github.com/snootic",
@@ -123,7 +125,7 @@ pub fn get_content() -> PortfolioContent {
                 ],
                 technologies: vec!["TypeScript", "React", "Three.js", "Electron", "Zustand"],
             },
-            
+
             Experience {
                 id: "2",
                 role: "Web Development and DevOps Intern",
@@ -138,13 +140,13 @@ pub fn get_content() -> PortfolioContent {
                 ],
                 technologies: vec!["React", "Vue", "Node.js", "PHP", "MySQL", "Docker", "Elasticsearch", "Linux", "Windows Server"],
             },
-            
+
             Experience {
                 id: "3",
                 role: "Software Development Intern",
                 company: "The Drake Language Solutions",
                 location: "São Paulo, SP - Brazil | Hybrid",
-                period: "Jun/2024 - Dec/2024",
+                period: "Jun/2024 - Jan/2025",
                 description: vec![
                     "Automated internal workflows with Python and VBA scripts, cutting reporting time by 25%.",
                     "Built an LLM-powered translation tool that reduced document delivery cycles by 30%.",
