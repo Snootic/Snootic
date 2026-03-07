@@ -1,18 +1,28 @@
 services:
-  portfolio:
-    container_name: portfolio
-    build:
-      context: .
-      dockerfile: dockerfile
-    networks:
-        - local
-    ports:
-      - "80"
-    environment:
-      - RUST_LOG=info
-      - LEPTOS_SITE_ADDR=0.0.0.0:80
-      - LEPTOS_SITE_ROOT=site
-    restart: unless-stopped
+    portfolio:
+        container_name: portfolio
+        build:
+            context: .
+            dockerfile: dockerfile
+        networks:
+            - local
+        ports:
+            - "80"
+        environment:
+            - RUST_LOG=info
+            - LEPTOS_SITE_ADDR=0.0.0.0:80
+            - LEPTOS_SITE_ROOT=site
+        labels:
+            # https://github.com/snootic/lab
+            - "cloudflare.domain=coisas-mais-estranhas.com.br,coisas-mais-estranhas.com.br,snootic.com.br"
+            - "cloudflare.proxied=true"
+            - "cloudflare.subdomain=portfolio,@,@"
+            - "cloudflare.type=CNAME"
+
+            - "traefik.enable=true"
+            - "traefik.http.routers.portfolio.rule=Host(`portfolio.coisas-mais-estranhas.com.br`) || Host(`coisas-mais-estranhas.com.br`) || Host(`snootic.com.br`)"
+            - "traefik.http.routers.portfolio.tls=true"
+        restart: unless-stopped
 
 networks:
     local:
