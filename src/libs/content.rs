@@ -61,7 +61,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: true,
                 github: Some("https://github.com/snootic/minecraft-server-builder"),
                 demo: Some("https://minecraft.coisas-mais-estranhas.com.br"),
-                gradient: "from-[#3D1E10]/60 via-[#1A1714] to-[#0D0B09]",
+                gradient: "from-[#2C1C0E]/60 via-[#181310] to-[#0D0B09]",
             },
             Project {
                 id: "2",
@@ -72,7 +72,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: true,
                 github: Some("https://github.com/snootic/ai-translator"),
                 demo: None,
-                gradient: "from-[#162030]/60 to-[#0D0B09]",
+                gradient: "from-[#1E2614]/60 via-[#14180E] to-[#0D0B09]",
             },
             Project {
                 id: "3",
@@ -83,7 +83,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: true,
                 github: Some("https://github.com/snootic/lab"),
                 demo: None,
-                gradient: "from-[#301020]/60 to-[#0D0B09]",
+                gradient: "from-[#0E2826]/60 via-[#0C1614] to-[#0D0B09]",
             },
             Project {
                 id: "4",
@@ -94,7 +94,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: false,
                 github: Some("https://github.com/cliyo/sphynx"),
                 demo: None,
-                gradient: "from-[#102018]/60 to-[#0D0B09]",
+                gradient: "from-[#111A32]/60 via-[#0E1020] to-[#0D0B09]",
             },
             Project {
                 id: "5",
@@ -105,7 +105,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: false,
                 github: Some("https://github.com/snootic/socket-gallery"),
                 demo: Some("https://gallery.coisas-mais-estranhas.com.br"),
-                gradient: "from-[#204030]/60 to-[#102040]",
+                gradient: "from-[#181030]/60 via-[#100C1C] to-[#0D0B09]",
             },
             Project {
                 id: "6",
@@ -116,7 +116,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: false,
                 github: Some("https://github.com/snootic/playlist-converter"),
                 demo: None,
-                gradient: "from-[#1E1030]/60 to-[#0D0B09]",
+                gradient: "from-[#2A1020]/60 via-[#180C12] to-[#0D0B09]",
             },
         ],
         experience: vec![
