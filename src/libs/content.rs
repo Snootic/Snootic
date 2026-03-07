@@ -14,7 +14,7 @@ pub fn get_content() -> PortfolioContent {
             phone: "+55 (11) 96139-5863",
             location: "São Paulo, Brazil",
             availability: "Available for new projects",
-            resume_url: "https://resources.coisas-mais-estranhas.com.br/public/share/IqstPFk3gUCHExiZjH4OUQ",
+            resume_url: "https://resources.coisas-mais-estranhas.com.br/public/share/i9Aua4CFMyN4sqNtm9vLRQ",
         },
         social: Social {
             github: "https://github.com/snootic",
