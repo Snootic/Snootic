@@ -105,7 +105,7 @@ pub fn get_content() -> PortfolioContent {
                 featured: false,
                 github: Some("https://github.com/snootic/socket-gallery"),
                 demo: Some("https://gallery.coisas-mais-estranhas.com.br"),
-                gradient: "from-[#301020]/60 to-[#0D0B09]",
+                gradient: "from-[#204030]/60 to-[#102040]",
             },
             Project {
                 id: "6",
