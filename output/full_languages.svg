@@ -54,8 +54,8 @@ tspan {
 </defs>
 <rect width="370" height="10" x="20" y="60" rx="5" ry="5" fill='#ccc' />
 <g clip-path="url(#roundedClip)">
-    <rect x="20" y="60" width="200" height="10" fill="#3178c6"> <title>TypeScript 53.97%</title> </rect>
-    <rect x="220" y="60" width="90" height="10" fill="#3572A5"> <title>Python 24.43%</title> </rect>
+    <rect x="20" y="60" width="200" height="10" fill="#3178c6"> <title>TypeScript 53.98%</title> </rect>
+    <rect x="220" y="60" width="90" height="10" fill="#3572A5"> <title>Python 24.42%</title> </rect>
     <rect x="310" y="60" width="50" height="10" fill="#dea584"> <title>Rust 13.38%</title> </rect>
     <rect x="360" y="60" width="16" height="10" fill="#f1e05a"> <title>JavaScript 4.34%</title> </rect>
     <rect x="376" y="60" width="9" height="10" fill="#b07219"> <title>Java 2.42%</title> </rect>
@@ -64,9 +64,9 @@ tspan {
 </g>
 <g id="lang_legend">
 <circle cx="30" cy="100" r="6" fill="#3178c6" />
-<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 53.97%</text>
+<text x="46" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>TypeScript</tspan> 53.98%</text>
 <circle cx="225" cy="100" r="6" fill="#3572A5" />
-<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 24.43%</text>
+<text x="241" y="104" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Python</tspan> 24.42%</text>
 <circle cx="30" cy="124" r="6" fill="#dea584" />
 <text x="46" y="128" font-size="13" font-family="system-ui, -apple-system, sans-serif" fill='currentColor'><tspan>Rust</tspan> 13.38%</text>
 <circle cx="225" cy="124" r="6" fill="#f1e05a" />
