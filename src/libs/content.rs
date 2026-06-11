@@ -138,7 +138,7 @@ in multi-million polygon scenes.",
                     "Developed parallel asset management and auto-updater services, eliminating data corruption risks and ensuring zero-downtime
 client updates."
                 ],
-                technologies: vec!["TypeScript", "React", "Three.js", "Electron", "Zustand"],
+                technologies: vec!["TypeScript", "Docker", "React Three Fiber", "Electron", "Python", "DevOps"],
             },
             Experience {
                 id: "2",
@@ -155,7 +155,7 @@ batched and instanced meshes.",
                     "Programmed a 9-slice vertex-level scaling architecture, allowing precise geometric resizing without texture distortion.",
                     "Configured CI/CD pipelines via GitHub Actions for automated testing and cross-platform builds (Windows, Linux, macOS).",
                 ],
-                technologies: vec!["TypeScript", "React", "Three.js", "Electron", "Zustand"],
+                technologies: vec!["TypeScript", "React", "Three.js", "Zustand"],
             },
 
             Experience {
