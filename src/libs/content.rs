@@ -122,38 +122,59 @@ pub fn get_content() -> PortfolioContent {
         experience: vec![
             Experience {
                 id: "1",
+                role: "Mid-Level 3D Developer",
+                company: "NewCAD",
+                location: "Poá, SP - Brazil | Hybrid",
+                period: "Apr 2026 - Present",
+                description: vec![
+                    "Refactored core system to Domain-Driven Design (DDD) and Clean Architecture, implementing a robust transaction system
+to enhance scene history reliability.",
+                    "Migrated state management from React Context to Zustand, and database models from Prisma 5 to 7, optimizing system
+performance and bundling efficiency.",
+                    "Engineered a pixel-precise 2D projection hole feature using Constructive Solid Geometry (CSG) and BVH, maintaining sub-
+millisecond calculation speeds.",
+                    "Optimized 3D resources using LRU caching algorithms, decreasing memory consumption by over 50% and sustaining 500+ FPS
+in multi-million polygon scenes.",
+                    "Developed parallel asset management and auto-updater services, eliminating data corruption risks and ensuring zero-downtime
+client updates."
+                ],
+                technologies: vec!["TypeScript", "React", "Three.js", "Electron", "Zustand"],
+            },
+            Experience {
+                id: "2",
                 role: "Junior 3D Developer",
                 company: "NewCAD",
                 location: "Poá, SP - Brazil | Hybrid",
-                period: "Sep 2025 - Present",
+                period: "Sep 2025 - Apr 2026",
                 description: vec![
-                    "Engineered core features for a real-time 3D interior design editor using React Three Fiber and Electron.",
+                    "Accelerated 3D rendering speed from 15 FPS to 250 FPS (16x improvement) for high-density environments by implementing
+batched and instanced meshes.",
                     "Refactored collision detection using Separating Axis Theorem, improving geometric accuracy and runtime stability.",
-                    "Implemented BVH-accelerated raycasting, boosting object interaction performance by 22%.",
-                    "Optimized rendering pipeline with texture instancing and geometry batching, raising scene performance from ~15 FPS to ~250 FPS (GTX 1650 4GB).",
-                    "Built parametric 3D resizing via vertex-level 9-slice scaling for distortion-free real-time customization.",
-                    "Refacted code-base structure using clean architecture, changing from react-context to zustand for best performance."
+                    "Enhanced spatial querying efficiency by 22% by integrating Bounding Volume Hierarchy (BVH) and Separating Axis Theorem
+(SAT) collision algorithms.",
+                    "Programmed a 9-slice vertex-level scaling architecture, allowing precise geometric resizing without texture distortion.",
+                    "Configured CI/CD pipelines via GitHub Actions for automated testing and cross-platform builds (Windows, Linux, macOS).",
                 ],
                 technologies: vec!["TypeScript", "React", "Three.js", "Electron", "Zustand"],
             },
 
             Experience {
-                id: "2",
+                id: "3",
                 role: "Web Development and DevOps Intern",
                 company: "Faculdade Unimais",
                 location: "São Paulo, SP - Brazil",
                 period: "Jan/2025 - Sep/2025",
                 description: vec![
-                    "Modernized legacy academic systems by migrating PHP platforms to scalable Vue/React architectures.",
-                    "Designed distributed search infrastructure indexing 150k+ documents with Elasticsearch in Docker Swarm, reducing query latency by 99%.",
-                    "Developed centralized ticketing platform that improved cross-department resolution efficiency by 15%.",
+                    "Architected a distributed ElasticSearch cluster using docker, reducing query latency by 99% (8s to 15ms) for a library of over 150,000 PDFs.",
+                    "Developed a centralized asynchronous ticketing platform, increasing cross-departmental issue resolution efficiency by 15%.",
+                    "Modernized legacy PHP infrastructure to React/React Native platforms, patching critical security vulnerabilities and improving cross-platform compatibility.",
                     "Optimized load balancing, firewall, and DNS configurations to increase system reliability and uptime."
                 ],
                 technologies: vec!["React", "Vue", "Node.js", "PHP", "MySQL", "Docker", "Elasticsearch", "Linux", "Windows Server"],
             },
 
             Experience {
-                id: "3",
+                id: "4",
                 role: "Software Development Intern",
                 company: "The Drake Language Solutions",
                 location: "São Paulo, SP - Brazil | Hybrid",
