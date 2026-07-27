@@ -13,7 +13,7 @@ services:
             - LEPTOS_SITE_ADDR=0.0.0.0:80
             - LEPTOS_SITE_ROOT=site
         labels:
-            # https://github.com/snootic/lab
+            # https://git.coisas-mais-estranhas.com.br/snootic/lab
             - "cloudflare.domain=coisas-mais-estranhas.com.br,coisas-mais-estranhas.com.br,snootic.com.br"
             - "cloudflare.proxied=true"
             - "cloudflare.subdomain=portfolio,@,@"

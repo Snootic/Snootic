@@ -6,7 +6,7 @@ use chrono::Datelike;
 pub fn Footer(personal: Personal, social: Social) -> impl IntoView {
     let year = chrono::Utc::now().year();
     let social_icons = vec![
-            (social.github, "GitHub", github_icon().into_any()),
+            (social.git, "Git", github_icon().into_any()),
             (social.linkedin, "LinkedIn", linkedin_icon().into_any()),
             (social.twitter, "Twitter / X", twitter_icon().into_any()),
             (social.website, "Website", globe_icon().into_any()),
@@ -25,7 +25,7 @@ pub fn Footer(personal: Personal, social: Social) -> impl IntoView {
                 <div class="flex items-center gap-4">
                     {social_icons.into_iter().filter_map(|(key, label, icon_view)| {
                         let href = match key {
-                            "github" => social.github,
+                            "git" => social.git,
                             "linkedin" => social.linkedin,
                             "twitter" => social.twitter,
                             "website" => social.website,

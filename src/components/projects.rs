@@ -13,7 +13,7 @@ fn ProjectLinks(github: Option<&'static str>, demo: Option<&'static str>) -> imp
                         target="_blank"
                         rel="noopener noreferrer"
                         class="text-ink-3 hover:text-brand transition-colors"
-                        aria-label="View source on GitHub"
+                        aria-label="View source on Git"
                     >
                         <svg 
                             xmlns="http://www.w3.org/2000/svg" 

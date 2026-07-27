@@ -16,7 +16,7 @@ pub struct Personal {
 
 #[derive(Debug, Clone)]
 pub struct Social {
-    pub github: &'static str,
+    pub git: &'static str,
     pub linkedin: &'static str,
     pub twitter: &'static str,
     pub website: &'static str,
