@@ -92,7 +92,7 @@ pub fn get_content() -> PortfolioContent {
                 long_description: None,
                 tags: vec!["C++", "Embedded systems", "Adafruit", "Websockets", "PostgreSQL", "Java"],
                 featured: false,
-                github: Some("https://git.coisas-mais-estranhas.com.br/cliyo/sphynx"),
+                github: Some("https://github.com/cliyo/sphynx"),
                 demo: None,
                 gradient: "from-[#111A32]/60 via-[#0E1020] to-[#0D0B09]",
             },
