@@ -1,0 +1,126 @@
+_version = 2
+
+[record.ref]
+en = "REF —"
+pt = "REF —"
+pt-BR = "REF —"
+
+[record.status.featured]
+en = "Selected"
+pt = "Em destaque"
+pt-BR = "Em destaque"
+
+[record.status.archive]
+en = "Other project"
+pt = "Outro projeto"
+pt-BR = "Outro projeto"
+
+[record.heading.brief]
+en = "What it does"
+pt = "O que faz"
+pt-BR = "O que faz"
+
+[record.heading.detail]
+en = "Development"
+pt = "Desenvolvimento"
+pt-BR = "Desenvolvimento"
+
+[record.heading.stack]
+en = "Technologies"
+pt = "Tecnologias"
+pt-BR = "Tecnologias"
+
+[record.heading.plates]
+en = "Project images"
+pt = "Imagens do projeto"
+pt-BR = "Imagens do projeto"
+
+[record.heading.record]
+en = "Links and information"
+pt = "Links e informações"
+pt-BR = "Links e informações"
+
+[record.button.close]
+en = "Close"
+pt = "Fechar"
+pt-BR = "Fechar"
+
+[record.plate.noun]
+en = "Image"
+pt = "Imagem"
+pt-BR = "Imagem"
+
+[record.plate.not_captured]
+en = "not yet available"
+pt = "ainda não disponível"
+pt-BR = "ainda não disponível"
+
+[record.plate.none]
+en = "There are no images listed here."
+pt = "Não há imagens listadas aqui."
+pt-BR = "Não há imagens listadas aqui."
+
+[record.plate.none_yet]
+en = "Images for this project are not yet available."
+pt = "As imagens deste projeto ainda não estão disponíveis."
+pt-BR = "As imagens deste projeto ainda não estão disponíveis."
+
+[record.plate.select]
+en = "Select a thumbnail to change the image"
+pt = "Selecione uma miniatura para trocar a imagem"
+pt-BR = "Selecione uma miniatura para trocar a imagem"
+
+[record.plate.plural]
+en = " images"
+pt = " imagens"
+pt-BR = " imagens"
+
+[record.fact.entry]
+en = "Project number"
+pt = "Número do projeto"
+pt-BR = "Número do projeto"
+
+[record.fact.status]
+en = "Group"
+pt = "Grupo"
+pt-BR = "Grupo"
+
+[record.fact.kind]
+en = "Project type"
+pt = "Tipo de projeto"
+pt-BR = "Tipo de projeto"
+
+[record.fact.repository]
+en = "Source code"
+pt = "Código-fonte"
+pt-BR = "Código-fonte"
+
+[record.fact.live]
+en = "Online version"
+pt = "Versão online"
+pt-BR = "Versão online"
+
+[record.fact.none]
+en = "No online version; code is available"
+pt = "Sem versão online; código disponível"
+pt-BR = "Sem versão online; código disponível"
+
+[record.foot.return]
+en = "Esc or a click outside closes the project and returns to 02 Projects"
+pt = "Esc ou um clique fora fecha o projeto e volta a 02 Projetos"
+pt-BR = "Esc ou um clique fora fecha o projeto e volta a 02 Projetos"
+
+[record.plate.captured]
+en = "Image added"
+pt = "Imagem adicionada"
+pt-BR = "Imagem adicionada"
+
+[record.plate.expand]
+en = "Enlarge image"
+pt = "Ampliar imagem"
+pt-BR = "Ampliar imagem"
+
+[record.plate.close]
+en = "Close image"
+pt = "Fechar imagem"
+pt-BR = "Fechar imagem"

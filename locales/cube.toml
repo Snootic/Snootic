@@ -1,0 +1,51 @@
+_version = 2
+
+[cube.face.front]
+en = "Front"
+pt = "Frente"
+pt-BR = "Frente"
+
+[cube.face.right]
+en = "Right"
+pt = "Direita"
+pt-BR = "Direita"
+
+[cube.face.back]
+en = "Back"
+pt = "Trás"
+pt-BR = "Trás"
+
+[cube.face.left]
+en = "Left"
+pt = "Esquerda"
+pt-BR = "Esquerda"
+
+[cube.face.top]
+en = "Top"
+pt = "Topo"
+pt-BR = "Topo"
+
+[cube.face.bottom]
+en = "Bottom"
+pt = "Base"
+pt-BR = "Base"
+
+# The axis triad's letters, resolved by `Cube::triad`. The horizontal axis is the
+# one that differs — Right in English, Direita in Portuguese, and the triad has
+# room for one letter. T and F are the same word in both, but come from here all
+# the same so every axis is lettered from one place.
+
+[cube.triad.right]
+en = "R"
+pt = "D"
+pt-BR = "D"
+
+[cube.triad.top]
+en = "T"
+pt = "T"
+pt-BR = "T"
+
+[cube.triad.front]
+en = "F"
+pt = "F"
+pt-BR = "F"

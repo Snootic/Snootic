@@ -3,61 +3,64 @@
 async fn main() -> std::io::Result<()> {
     use actix_files::Files;
     use actix_web::*;
-    use leptos::prelude::*;
     use leptos::config::get_configuration;
+    use leptos::prelude::*;
     use leptos_meta::MetaTags;
-    use leptos_actix::{generate_route_list, LeptosRoutes};
-    use portfolio::app::app::App;
+    use portfolio::app::App;
+    use portfolio::three::ImportMap;
 
-    let conf = get_configuration(None).unwrap();
+    any_spawner::Executor::init_tokio().ok();
+
+    let conf = get_configuration(None).map_err(std::io::Error::other)?;
     let addr = conf.leptos_options.site_addr;
+    let leptos_options = conf.leptos_options.clone();
 
+    println!("listening on http://{addr}");
     HttpServer::new(move || {
-        // Generate the list of routes in your Leptos App
-        let routes = generate_route_list(App);
-        let leptos_options = &conf.leptos_options;
-        let site_root = leptos_options.site_root.clone().to_string();
-
-        println!("listening on http://{}", &    addr);
+        let options = leptos_options.clone();
+        let site_root = options.site_root.clone().to_string();
 
         App::new()
-            // serve JS/WASM/CSS from `pkg`
             .service(Files::new("/pkg", format!("{site_root}/pkg")))
-            // serve other assets from the `assets` directory
             .service(Files::new("/assets", &site_root))
-            // serve the favicon from /favicon.ico
             .service(favicon)
-            .leptos_routes(routes, {
-                let leptos_options = leptos_options.clone();
-                move || {
-                    view! {
-                        <!DOCTYPE html>
-                        <html lang="en">
-                            <head>
-                                <meta charset="utf-8"/>
-                                <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                                <script type="importmap">
-                                    {r#"{
-                                        "imports": {
-                                            "three": "https://unpkg.com/three@0.183.1/build/three.module.js",
-                                            "three/webgpu": "https://unpkg.com/three@0.183.1/build/three.webgpu.js"
-                                        }
-                                    }"#}
-                                </script>
-                                
-                                <AutoReload options=leptos_options.clone() />
-                                <HydrationScripts options=leptos_options.clone()/>
-                                <MetaTags/>
-                            </head>
-                            <body class="font-sans bg-page text-ink antialiased">
-                                <App/>
-                            </body>
-                        </html>
-                    }
-                }
-            })
-            .app_data(web::Data::new(leptos_options.to_owned()))
-        //.wrap(middleware::Compress::default())
+            .route(
+                "/{tail:.*}",
+                leptos_actix::render_app_to_stream(
+                    {
+                        let options = options.clone();
+                        move || {
+                            let options = options.clone();
+                            view! {
+                                <!DOCTYPE html>
+                                <html lang="en" data-motion="plot">
+                                    <head>
+                                        <meta charset="utf-8"/>
+                                        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+                                        <script>{r#"(function(){document.documentElement.dataset.js='1';var m=null;try{m=new URLSearchParams(location.search).get('lang')}catch(e){}var s=null;try{s=localStorage.getItem('locale')}catch(e){}var t=(m||s||(navigator.languages&&navigator.languages[0])||navigator.language||'en').toString().toLowerCase();var l=t.indexOf('pt')===0?'pt-BR':'en';document.documentElement.lang=l;document.documentElement.dataset.locale=(l==='pt-BR')?'pt-br':'en'})()"#}</script>
+                                        <link rel="preconnect" href="https://fonts.googleapis.com"/>
+                                        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/>
+                                        <link
+                                            rel="stylesheet"
+                                            href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo:wght@400;600&family=JetBrains+Mono:wght@400;700&display=swap"
+                                        />
+                                        <ImportMap/>
+
+                                        <AutoReload options=options.clone() />
+                                        <HydrationScripts options=options.clone()/>
+                                        <MetaTags/>
+                                    </head>
+                                    <body>
+                                        <App/>
+                                    </body>
+                                </html>
+                            }
+                        }
+                    },
+                    leptos_router::Method::Get,
+                ),
+            )
+            .app_data(web::Data::new(options))
     })
     .bind(&addr)?
     .run()
@@ -77,21 +80,13 @@ async fn favicon(
 }
 
 #[cfg(not(any(feature = "ssr", feature = "csr")))]
-pub fn main() {
-    // no client-side main function
-    // unless we want this to work with e.g., Trunk for pure client-side testing
-    // see lib.rs for hydration function instead
-    // see optional feature `csr` instead
-}
+pub fn main() {}
 
 #[cfg(all(not(feature = "ssr"), feature = "csr"))]
 pub fn main() {
-    // a client-side main function is required for using `trunk serve`
-    // prefer using `cargo leptos serve` instead
-    // to run: `trunk serve --open --features csr`
-    use portfolio::app::*;
+    use portfolio::app::App;
 
     console_error_panic_hook::set_once();
 
-    leptos::mount_to_body(App);
+    leptos::mount::mount_to_body(App);
 }

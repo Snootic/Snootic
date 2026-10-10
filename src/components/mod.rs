@@ -1,12 +1,6 @@
-pub mod about;
-pub mod animate_on_scroll;
-pub mod contact;
-pub mod experience;
-pub mod footer;
-pub mod hero;
-pub mod navbar;
-pub mod projects;
-pub mod section_header;
-pub mod skills;
-pub mod tag_badge;
-pub mod icons;
+mod input;
+pub mod instrument;
+pub mod nav;
+pub mod record;
+pub mod sheets;
+pub mod shell;

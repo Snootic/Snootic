@@ -1,0 +1,31 @@
+_version = 2
+
+# The view cube dock's words, all read by the Instrument component inside reactive
+# closures so a press of the register re-letters them. `instrument.patch.*` are
+# the face patches' accessible labels; `instrument.cube.label` is the dock's one
+# sentence. Portuguese is the reviewed pair, moved here verbatim.
+
+[instrument.cube.label]
+en = "Use the cube to choose a section. Drag and release to rotate to the nearest face, or click a face. Arrow keys preview a turn, Enter opens it, and keys 1–5 select sections directly."
+pt = "Use o cubo para escolher uma seção. Arraste e solte para girar até a face mais próxima, ou clique em uma face. As setas mostram uma prévia, Enter abre a seção e as teclas 1–5 selecionam diretamente."
+pt-BR = "Use o cubo para escolher uma seção. Arraste e solte para girar até a face mais próxima, ou clique em uma face. As setas mostram uma prévia, Enter abre a seção e as teclas 1–5 selecionam diretamente."
+
+[instrument.patch.sheet]
+en = "Section"
+pt = "Seção"
+pt-BR = "Seção"
+
+[instrument.patch.go]
+en = "Go to section"
+pt = "Ir para a seção"
+pt-BR = "Ir para a seção"
+
+[instrument.patch.void]
+en = "Bottom face: stay on this section"
+pt = "Face inferior: continuar nesta seção"
+pt-BR = "Face inferior: continuar nesta seção"
+
+[instrument.cube.hint]
+en = "Rotate to browse"
+pt = "Gire para navegar"
+pt-BR = "Gire para navegar"

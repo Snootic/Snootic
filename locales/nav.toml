@@ -1,0 +1,86 @@
+_version = 2
+
+# The router's words: the readout line's state clause and the live-region
+# announcements. Every value is resolved at draw time through `locale::t`, so the
+# line re-letters when the register is pressed. Portuguese is the reviewed pair,
+# moved here verbatim.
+
+[nav.state.preview]
+en = "TURN PREVIEW"
+pt = "PRÉVIA DO GIRO"
+pt-BR = "PRÉVIA DO GIRO"
+
+[nav.state.enter_commits]
+en = "ENTER OPENS SECTION"
+pt = "ENTER ABRE A SEÇÃO"
+pt-BR = "ENTER ABRE A SEÇÃO"
+
+[nav.state.enter_holds]
+en = "ENTER KEEPS CURRENT SECTION"
+pt = "ENTER MANTÉM A SEÇÃO ATUAL"
+pt-BR = "ENTER MANTÉM A SEÇÃO ATUAL"
+
+[nav.state.no_sheet]
+en = "BOTTOM FACE"
+pt = "FACE INFERIOR"
+pt-BR = "FACE INFERIOR"
+
+[nav.state.record_open]
+en = "VIEWING PROJECT"
+pt = "PROJETO EM EXIBIÇÃO"
+pt-BR = "PROJETO EM EXIBIÇÃO"
+
+[nav.state.record_open_hint]
+en = "VIEWING PROJECT / ESC CLOSES"
+pt = "PROJETO EM EXIBIÇÃO / ESC FECHA"
+pt-BR = "PROJETO EM EXIBIÇÃO / ESC FECHA"
+
+[nav.state.drag_orbit]
+en = "ROTATE BY DRAGGING OR SCROLLING"
+pt = "GIRE ARRASTANDO OU ROLANDO"
+pt-BR = "GIRE ARRASTANDO OU ROLANDO"
+
+[nav.state.drag_orbit_mech]
+en = "ROTATE BY DRAGGING OR SCROLLING / MECH"
+pt = "GIRE ARRASTANDO OU ROLANDO / MECH"
+pt-BR = "GIRE ARRASTANDO OU ROLANDO / MECH"
+
+[nav.state.drag_orbit_terse]
+en = "DRAG TO TURN"
+pt = "ARRASTE PARA GIRAR"
+pt-BR = "ARRASTE PARA GIRAR"
+
+[nav.motion.register]
+en = "Section animation"
+pt = "Animação das seções"
+pt-BR = "Animação das seções"
+
+[nav.motion.plot]
+en = "Draw sections as they appear."
+pt = "Desenhar as seções ao exibir."
+pt-BR = "Desenhar as seções ao exibir."
+
+[nav.motion.mech]
+en = "Change sections directly."
+pt = "Trocar de seção diretamente."
+pt-BR = "Trocar de seção diretamente."
+
+[nav.record.fallback]
+en = "Project"
+pt = "Projeto"
+pt-BR = "Projeto"
+
+[nav.record.open]
+en = "is displayed above section"
+pt = "está em exibição sobre a seção"
+pt-BR = "está em exibição sobre a seção"
+
+[nav.record.open_hint]
+en = "Close with Esc."
+pt = "Feche com Esc."
+pt-BR = "Feche com Esc."
+
+[nav.record.closed]
+en = "Project dismissed"
+pt = "Projeto fechado"
+pt-BR = "Projeto fechado"

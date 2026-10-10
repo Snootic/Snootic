@@ -1,0 +1,176 @@
+_version = 2
+
+[app.language.en]
+en = "English"
+pt = "ingl\u00eas"
+pt-BR = "ingl\u00eas"
+
+[app.language.pt-BR]
+en = "Portuguese"
+pt = "portugu\u00eas"
+pt-BR = "portugu\u00eas"
+
+[app.skip.content]
+en = "Skip to content"
+pt = "Ir para o conteúdo"
+pt-BR = "Ir para o conteúdo"
+
+[app.register.motion]
+en = "Animation"
+pt = "Animação"
+pt-BR = "Animação"
+
+[app.register.motion_aria]
+en = "Choose a section animation: drawing with PLOT or a direct change with MECH"
+pt = "Escolha a animação das seções: desenho com PLOT ou troca direta com MECH"
+pt-BR = "Escolha a animação das seções: desenho com PLOT ou troca direta com MECH"
+
+[app.register.language]
+en = "Language"
+pt = "Idioma"
+pt-BR = "Idioma"
+
+[app.register.switch_to]
+en = "Choose"
+pt = "Escolher"
+pt-BR = "Escolher"
+
+[app.back.cv]
+en = "Résumé"
+pt = "Currículo"
+pt-BR = "Currículo"
+
+[app.panel.continued]
+en = "Scroll for more"
+pt = "Role para continuar"
+pt-BR = "Role para continuar"
+
+[app.stations.aria]
+en = "Navigate portfolio sections"
+pt = "Navegar pelas seções do portfólio"
+pt-BR = "Navegar pelas seções do portfólio"
+
+[app.hint.noscript]
+en = "Without JavaScript, navigate using the numbered links or the menu below."
+pt = "Sem JavaScript, navegue pelos links numerados ou pelo menu abaixo."
+pt-BR = "Sem JavaScript, navegue pelos links numerados ou pelo menu abaixo."
+
+[app.controls.summary]
+en = "Controls"
+pt = "Controles"
+pt-BR = "Controles"
+
+[app.controls.item1.title]
+en = "Choose a section"
+pt = "Escolha uma seção"
+pt-BR = "Escolha uma seção"
+
+[app.controls.item1.body]
+en = ": click a cube face or a number along the bottom. Dragging turns the cube; releasing opens the section on its nearest face. Scrolling also turns it."
+pt = ": clique em uma face do cubo ou em um número na parte inferior. Arrastar gira o cubo; soltar abre a seção da face mais próxima. A rolagem também gira o cubo."
+pt-BR = ": clique em uma face do cubo ou em um número na parte inferior. Arrastar gira o cubo; soltar abre a seção da face mais próxima. A rolagem também gira o cubo."
+
+[app.controls.item2.title]
+en = "Shortcuts"
+pt = "Atalhos"
+pt-BR = "Atalhos"
+
+[app.controls.item2.preview]
+en = " show a turn preview; "
+pt = " mostram a prévia de um giro; "
+pt-BR = " mostram a prévia de um giro; "
+
+[app.controls.item2.commits]
+en = " opens the previewed section; "
+pt = " abre a seção da prévia; "
+pt-BR = " abre a seção da prévia; "
+
+[app.controls.item2.jump]
+en = " select sections; "
+pt = " selecionam as seções; "
+pt-BR = " selecionam as seções; "
+
+[app.controls.item2.closes]
+en = " closes a project; "
+pt = " fecha um projeto; "
+pt-BR = " fecha um projeto; "
+
+[app.controls.item2.flips]
+en = " switches animations: "
+pt = " troca a animação: "
+pt-BR = " troca a animação: "
+
+[app.controls.item2.plot]
+en = " for drawing, "
+pt = " para desenho, "
+pt-BR = " para desenho, "
+
+[app.controls.item2.mech]
+en = " for direct transitions."
+pt = " para transições diretas."
+pt-BR = " para transições diretas."
+
+[app.controls.item3.title]
+en = "Project details"
+pt = "Detalhes dos projetos"
+pt-BR = "Detalhes dos projetos"
+
+[app.controls.item3.body]
+en = ": select its title to open the project page. Press "
+pt = ": selecione o título para abrir a página do projeto. Pressione "
+pt-BR = ": selecione o título para abrir a página do projeto. Pressione "
+
+[app.controls.item3.tail]
+en = " to return to the list, or click outside the page or its close button."
+pt = " para voltar à lista, ou clique fora da página ou no botão de fechar."
+pt-BR = " para voltar à lista, ou clique fora da página ou no botão de fechar."
+
+[app.controls.item4.title]
+en = "Project images"
+pt = "Imagens dos projetos"
+pt-BR = "Imagens dos projetos"
+
+[app.controls.item4.body]
+en = ": select a thumbnail to display an image. Use "
+pt = ": selecione uma miniatura para exibir a imagem. Use "
+pt-BR = ": selecione uma miniatura para exibir a imagem. Use "
+
+[app.controls.item4.and]
+en = " and "
+pt = " e "
+pt-BR = " e "
+
+[app.controls.item4.move]
+en = " to navigate between images. Captions identify images that have not yet been added."
+pt = " para navegar entre as imagens. As legendas identificam as imagens que ainda não foram adicionadas."
+pt-BR = " para navegar entre as imagens. As legendas identificam as imagens que ainda não foram adicionadas."
+
+[app.controls.item5.title]
+en = "Turn to the bottom"
+pt = "Gire até a face inferior"
+pt-BR = "Gire até a face inferior"
+
+[app.controls.item5.body]
+en = ": the current section stays open. All five sections are on the other faces."
+pt = ": a seção atual continua aberta. As cinco seções estão nas outras faces."
+pt-BR = ": a seção atual continua aberta. As cinco seções estão nas outras faces."
+
+[app.register.nojs_aria]
+en = "Choose a portfolio section"
+pt = "Escolha uma seção do portfólio"
+pt-BR = "Escolha uma seção do portfólio"
+
+[app.register.sheets]
+en = "Sections"
+pt = "Seções"
+pt-BR = "Seções"
+
+[app.meta.title]
+en = "Kaik Mendes / Software developer"
+pt = "Kaik Mendes / Desenvolvedor de software"
+pt-BR = "Kaik Mendes / Desenvolvedor de software"
+
+[app.meta.description]
+en = "Kaik Mendes, software developer in São Paulo. Professional experience and projects in 3D software, document automation, image processing, and infrastructure."
+pt = "Kaik Mendes, desenvolvedor de software em São Paulo. Experiência profissional e projetos em software 3D, automação de documentos, processamento de imagens e infraestrutura."
+pt-BR = "Kaik Mendes, desenvolvedor de software em São Paulo. Experiência profissional e projetos em software 3D, automação de documentos, processamento de imagens e infraestrutura."

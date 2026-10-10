@@ -1,0 +1,1121 @@
+_version = 2
+
+[content.stat.years]
+en = "Programming since"
+pt = "Programando desde"
+pt-BR = "Programando desde"
+
+[content.stat.projects]
+en = "Personal projects"
+pt = "Projetos pessoais"
+pt-BR = "Projetos pessoais"
+
+[content.stat.roles]
+en = "Professional roles"
+pt = "Cargos profissionais"
+pt-BR = "Cargos profissionais"
+
+[content.personal.availability]
+en = "Available for new projects"
+pt = "Disponível para novos projetos"
+pt-BR = "Disponível para novos projetos"
+
+[content.personal.brief.1]
+en = "I'm a software developer based in São Paulo, with experience in 3D applications, document automation, and infrastructure. At NewCAD, I develop features for a desktop CAD application used in interior design, working on scene editing, rendering performance, and the services that support the product."
+pt = "Sou desenvolvedor de software em São Paulo, com experiência em aplicações 3D, automação de documentos e infraestrutura. No NewCAD, desenvolvo funcionalidades para um aplicativo CAD voltado ao design de interiores. Trabalho na edição de cenas, no desempenho da renderização e nos serviços que dão suporte ao produto."
+pt-BR = "Sou desenvolvedor de software em São Paulo, com experiência em aplicações 3D, automação de documentos e infraestrutura. No NewCAD, desenvolvo funcionalidades para um aplicativo CAD voltado ao design de interiores. Trabalho na edição de cenas, no desempenho da renderização e nos serviços que dão suporte ao produto."
+
+[content.personal.brief.2]
+en = "I began programming during my Systems Analysis and Development degree at Fatec in 2023. My professional experience includes translation, education, and 3D software. Alongside that work, I develop independent projects and maintain a two-node homelab where I host applications and manage their infrastructure."
+pt = "Comecei a programar em 2023, durante a graduação em Análise e Desenvolvimento de Sistemas na Fatec. Minha experiência profissional inclui os setores de tradução, educação e software 3D. Também desenvolvo projetos próprios e mantenho um homelab com dois nós, onde hospedo aplicações e administro a infraestrutura."
+pt-BR = "Comecei a programar em 2023, durante a graduação em Análise e Desenvolvimento de Sistemas na Fatec. Minha experiência profissional inclui os setores de tradução, educação e software 3D. Também desenvolvo projetos próprios e mantenho um homelab com dois nós, onde hospedo aplicações e administro a infraestrutura."
+
+[content.personal.location]
+en = "São Paulo, Brazil"
+pt = "São Paulo, Brasil"
+pt-BR = "São Paulo, Brasil"
+
+[content.personal.portrait_alt]
+en = "Portrait of Kaik Mendes in a black T-shirt, with round glasses, short curly dark hair, and a short beard. A speaker and a bright window are visible behind him."
+pt = "Retrato de Kaik Mendes de camiseta preta, óculos redondos, cabelo escuro curto e cacheado e barba curta. Ao fundo aparecem um alto-falante e uma janela iluminada."
+pt-BR = "Retrato de Kaik Mendes de camiseta preta, óculos redondos, cabelo escuro curto e cacheado e barba curta. Ao fundo aparecem um alto-falante e uma janela iluminada."
+
+[content.personal.tagline]
+en = "A fellow openSUSE user and Persona enjoyer."
+pt = "Apenas um usuário de openSUSE e amante de Persona."
+pt-BR = "Apenas um usuário de openSUSE e amante de Persona."
+
+[content.personal.title]
+en = "Software developer"
+pt = "Desenvolvedor de software"
+pt-BR = "Desenvolvedor de software"
+
+[content.language.1]
+en = "Portuguese: native"
+pt = "Português: nativo"
+pt-BR = "Português: nativo"
+
+[content.language.2]
+en = "English: TOEIC 880, certified B2; self-assessed C1"
+pt = "Inglês: 880 pontos no TOEIC, nível B2 certificado; C1 por autoavaliação"
+pt-BR = "Inglês: 880 pontos no TOEIC, nível B2 certificado; C1 por autoavaliação"
+
+[content.academy.location]
+en = "Ferraz de Vasconcelos, SP, Brazil"
+pt = "Ferraz de Vasconcelos, SP, Brasil"
+pt-BR = "Ferraz de Vasconcelos, SP, Brasil"
+
+[content.academy.period]
+en = "Feb 2023 – Dec 2025"
+pt = "Fev 2023 – Dez 2025"
+pt-BR = "Fev 2023 – Dez 2025"
+
+[content.academy.point.1]
+en = "I completed my Systems Analysis and Development degree at Fatec between February 2023 and December 2025, where I began programming. My final average was 8.83/10."
+pt = "Cursei Análise e Desenvolvimento de Sistemas na Fatec entre fevereiro de 2023 e dezembro de 2025, período em que comecei a programar. Concluí a graduação com média de 8,83/10."
+pt-BR = "Cursei Análise e Desenvolvimento de Sistemas na Fatec entre fevereiro de 2023 e dezembro de 2025, período em que comecei a programar. Concluí a graduação com média de 8,83/10."
+
+[content.academy.point.2]
+en = "I earned full marks in Data Structures, Software Engineering, Cognitive Computing, and Big Data."
+pt = "Obtive nota máxima em Estruturas de Dados, Engenharia de Software, Computação Cognitiva e Big Data."
+pt-BR = "Obtive nota máxima em Estruturas de Dados, Engenharia de Software, Computação Cognitiva e Big Data."
+
+[content.academy.point.3]
+en = "I published an academic article on Sphynx, the ESP32 access-control device I developed. With support from the college, the project led to my participation in Instituto TIM's AWC 2024 program."
+pt = "Publiquei um artigo acadêmico sobre o Sphynx, dispositivo de controle de acesso com ESP32 que desenvolvi. Com o apoio da faculdade, o projeto levou à minha participação no programa AWC 2024 do Instituto TIM."
+pt-BR = "Publiquei um artigo acadêmico sobre o Sphynx, dispositivo de controle de acesso com ESP32 que desenvolvi. Com o apoio da faculdade, o projeto levou à minha participação no programa AWC 2024 do Instituto TIM."
+
+[content.academy.programme]
+en = "Systems Analysis and Development"
+pt = "Análise e Desenvolvimento de Sistemas"
+pt-BR = "Análise e Desenvolvimento de Sistemas"
+
+[content.course.01.issuer]
+en = "Cisco Networking Academy"
+pt = "Cisco Networking Academy"
+pt-BR = "Cisco Networking Academy"
+
+[content.course.01.name]
+en = "CCNA — ITN, SRWE, ENSA"
+pt = "CCNA — ITN, SRWE, ENSA"
+pt-BR = "CCNA — ITN, SRWE, ENSA"
+
+[content.course.02.issuer]
+en = "Digital Innovation One"
+pt = "Digital Innovation One"
+pt-BR = "Digital Innovation One"
+
+[content.course.02.name]
+en = "Machine Learning Practitioner"
+pt = "Machine Learning Practitioner"
+pt-BR = "Machine Learning Practitioner"
+
+[content.course.03.issuer]
+en = "AWS Academy"
+pt = "AWS Academy"
+pt-BR = "AWS Academy"
+
+[content.course.03.name]
+en = "AWS Academy Cloud Foundations"
+pt = "AWS Academy Cloud Foundations"
+pt-BR = "AWS Academy Cloud Foundations"
+
+[content.course.04.issuer]
+en = "Google Cloud Skills Boost"
+pt = "Google Cloud Skills Boost"
+pt-BR = "Google Cloud Skills Boost"
+
+[content.course.04.name]
+en = "Google Cloud Computing Foundations"
+pt = "Google Cloud Computing Foundations"
+pt-BR = "Google Cloud Computing Foundations"
+
+[content.course.05.issuer]
+en = "Digital Innovation One"
+pt = "Digital Innovation One"
+pt-BR = "Digital Innovation One"
+
+[content.course.05.name]
+en = "Data Science with Python"
+pt = "Ciência de dados com Python"
+pt-BR = "Ciência de dados com Python"
+
+[content.cta.track]
+en = "Professional experience"
+pt = "Experiência profissional"
+pt-BR = "Experiência profissional"
+
+[content.cta.work]
+en = "View projects"
+pt = "Ver projetos"
+pt-BR = "Ver projetos"
+
+[content.stack.backend.category]
+en = "Backend"
+pt = "Backend"
+pt-BR = "Backend"
+
+[content.stack.backend.note]
+en = "APIs and application services"
+pt = "APIs e serviços das aplicações"
+pt-BR = "APIs e serviços das aplicações"
+
+[content.stack.data.category]
+en = "Databases and search"
+pt = "Bancos de dados e busca"
+pt-BR = "Bancos de dados e busca"
+
+[content.stack.data.note]
+en = "Persistence and indexing"
+pt = "Persistência e indexação"
+pt-BR = "Persistência e indexação"
+
+[content.stack.desktop.category]
+en = "Desktop, graphics and hardware"
+pt = "Desktop, gráficos e hardware"
+pt-BR = "Desktop, gráficos e hardware"
+
+[content.stack.desktop.note]
+en = "Tools beyond the browser"
+pt = "Ferramentas além do navegador"
+pt-BR = "Ferramentas além do navegador"
+
+[content.stack.frontend.category]
+en = "Frontend"
+pt = "Frontend"
+pt-BR = "Frontend"
+
+[content.stack.frontend.note]
+en = "Web and mobile applications"
+pt = "Aplicações web e mobile"
+pt-BR = "Aplicações web e mobile"
+
+[content.stack.infrastructure.category]
+en = "Infrastructure"
+pt = "Infraestrutura"
+pt-BR = "Infraestrutura"
+
+[content.stack.infrastructure.note]
+en = "Deployment and monitoring"
+pt = "Deploy e monitoramento"
+pt-BR = "Deploy e monitoramento"
+
+[content.stack.languages.category]
+en = "Programming languages"
+pt = "Linguagens de programação"
+pt-BR = "Linguagens de programação"
+
+[content.stack.languages.note]
+en = "Used across these projects"
+pt = "Usadas nestes projetos"
+pt-BR = "Usadas nestes projetos"
+
+[content.evidence.ai_translator]
+en = "AI Translator"
+pt = "AI Translator"
+pt-BR = "AI Translator"
+
+[content.evidence.drake_ai_translator]
+en = "Drake · AI Translator"
+pt = "Drake · AI Translator"
+pt-BR = "Drake · AI Translator"
+
+[content.evidence.drake_rtsp]
+en = "Drake / camera recording"
+pt = "Drake / gravação de câmeras"
+pt-BR = "Drake / gravação de câmeras"
+
+[content.evidence.lab]
+en = "LAB"
+pt = "LAB"
+pt-BR = "LAB"
+
+[content.evidence.lab_dns]
+en = "LAB / automated DNS"
+pt = "LAB / DNS automatizado"
+pt-BR = "LAB / DNS automatizado"
+
+[content.evidence.lab_mutaria]
+en = "LAB · Mutaria"
+pt = "LAB · Mutaria"
+pt-BR = "LAB · Mutaria"
+
+[content.evidence.lab_mutaria_mc_server_builder]
+en = "LAB · Mutaria · MC Server Builder"
+pt = "LAB · Mutaria · MC Server Builder"
+pt-BR = "LAB · Mutaria · MC Server Builder"
+
+[content.evidence.lab_remote_access]
+en = "LAB / WireGuard access"
+pt = "LAB / acesso por WireGuard"
+pt-BR = "LAB / acesso por WireGuard"
+
+[content.evidence.lab_tls]
+en = "LAB / TLS certificates"
+pt = "LAB / certificados TLS"
+pt-BR = "LAB / certificados TLS"
+
+[content.evidence.lab_unimais]
+en = "LAB · Unimais"
+pt = "LAB · Unimais"
+pt-BR = "LAB · Unimais"
+
+[content.evidence.minecraft_server_builder]
+en = "Minecraft Server Builder"
+pt = "Minecraft Server Builder"
+pt-BR = "Minecraft Server Builder"
+
+[content.evidence.minecraft_server_builder_newcad]
+en = "Minecraft Server Builder · NewCAD"
+pt = "Minecraft Server Builder · NewCAD"
+pt-BR = "Minecraft Server Builder · NewCAD"
+
+[content.evidence.minecraft_server_builder_socket_gallery]
+en = "Minecraft Server Builder · Socket Gallery"
+pt = "Minecraft Server Builder · Socket Gallery"
+pt-BR = "Minecraft Server Builder · Socket Gallery"
+
+[content.evidence.mutaria]
+en = "Mutaria"
+pt = "Mutaria"
+pt-BR = "Mutaria"
+
+[content.evidence.mutaria_ai_translator]
+en = "Mutaria · AI Translator"
+pt = "Mutaria · AI Translator"
+pt-BR = "Mutaria · AI Translator"
+
+[content.evidence.mutaria_no_cuda]
+en = "Mutaria / GPU processing"
+pt = "Mutaria / processamento em GPU"
+pt-BR = "Mutaria / processamento em GPU"
+
+[content.evidence.mutaria_pdf]
+en = "Mutaria / PDF conversion"
+pt = "Mutaria / conversão de PDF"
+pt-BR = "Mutaria / conversão de PDF"
+
+[content.evidence.mutaria_sphynx]
+en = "Mutaria · Sphynx"
+pt = "Mutaria · Sphynx"
+pt-BR = "Mutaria · Sphynx"
+
+[content.evidence.mutaria_this_sheet]
+en = "Mutaria / portfolio"
+pt = "Mutaria / portfólio"
+pt-BR = "Mutaria / portfólio"
+
+[content.evidence.newcad]
+en = "NewCAD"
+pt = "NewCAD"
+pt-BR = "NewCAD"
+
+[content.evidence.newcad_ci]
+en = "NewCAD / desktop builds"
+pt = "NewCAD / builds desktop"
+pt-BR = "NewCAD / builds desktop"
+
+[content.evidence.newcad_openings]
+en = "NewCAD / geometry operations"
+pt = "NewCAD / operações de geometria"
+pt-BR = "NewCAD / operações de geometria"
+
+[content.evidence.newcad_picking]
+en = "NewCAD / raycasting and SAT"
+pt = "NewCAD / raycasting e SAT"
+pt-BR = "NewCAD / raycasting e SAT"
+
+[content.evidence.newcad_telemetry]
+en = "NewCAD / observability"
+pt = "NewCAD / observabilidade"
+pt-BR = "NewCAD / observabilidade"
+
+[content.evidence.playlist_converter]
+en = "Playlist Converter"
+pt = "Playlist Converter"
+pt-BR = "Playlist Converter"
+
+[content.evidence.playlist_converter_socket_gallery]
+en = "Playlist Converter · Socket Gallery"
+pt = "Playlist Converter · Socket Gallery"
+pt-BR = "Playlist Converter · Socket Gallery"
+
+[content.evidence.socket_gallery]
+en = "Socket Gallery"
+pt = "Socket Gallery"
+pt-BR = "Socket Gallery"
+
+[content.evidence.socket_gallery_newcad]
+en = "Socket Gallery · NewCAD"
+pt = "Socket Gallery · NewCAD"
+pt-BR = "Socket Gallery · NewCAD"
+
+[content.evidence.socket_gallery_playlist_converter]
+en = "Socket Gallery · Playlist Converter"
+pt = "Socket Gallery · Playlist Converter"
+pt-BR = "Socket Gallery · Playlist Converter"
+
+[content.evidence.socket_gallery_this_sheet]
+en = "Socket Gallery / portfolio"
+pt = "Socket Gallery / portfólio"
+pt-BR = "Socket Gallery / portfólio"
+
+[content.evidence.sphynx]
+en = "Sphynx"
+pt = "Sphynx"
+pt-BR = "Sphynx"
+
+[content.evidence.unimais]
+en = "Unimais"
+pt = "Unimais"
+pt-BR = "Unimais"
+
+[content.evidence.unimais_search]
+en = "Unimais / digital-library search"
+pt = "Unimais / busca da biblioteca digital"
+pt-BR = "Unimais / busca da biblioteca digital"
+
+[content.project.01.brief]
+en = "A tool for configuring, building, and running Minecraft servers. It combines modpack selection, server settings, downloadable builds, and Docker-based hosting."
+pt = "Ferramenta para configurar, montar e executar servidores de Minecraft. Reúne seleção de modpacks, configurações do servidor, geração de arquivos para download e hospedagem com Docker."
+pt-BR = "Ferramenta para configurar, montar e executar servidores de Minecraft. Reúne seleção de modpacks, configurações do servidor, geração de arquivos para download e hospedagem com Docker."
+
+[content.project.01.detail]
+en = "I developed Minecraft Server Builder to bring server configuration, build generation, and deployment into one workflow, building both the React/TypeScript interface and the Rust backend that manages Docker. It resolves compatible game versions, loaders, and content from Modrinth, obtains server jars from MCJars, and uses Minecraft Wiki metadata to describe settings. Users can import a .mrpack or select mods and datapacks individually.\n\nThe React and TypeScript interface provides controls for server properties, gamerules, memory allocation, and Java arguments. Gamerules are generated as a datapack with layouts compatible with older and newer versions of Minecraft. The configured server can be downloaded as a ZIP or submitted to the Rust backend for execution.\n\nThe backend manages Docker through bollard, using an itzg/minecraft-server container and a persistent data directory for each server. The mc-router proxy routes players by hostname, starts servers when a player connects, and stops them after an idle period. Custom MOTDs indicate when a server is stopped or loading."
+pt = "Desenvolvi o Minecraft Server Builder para reunir configuração, geração de builds e implantação de servidores em um único fluxo. Criei tanto a interface React/TypeScript quanto o backend Rust que gerencia o Docker. O aplicativo resolve versões, loaders e conteúdos compatíveis no Modrinth, obtém arquivos de servidor no MCJars e usa metadados da Minecraft Wiki para descrever as configurações. É possível importar um .mrpack ou selecionar mods e datapacks individualmente.\n\nA interface em React e TypeScript permite ajustar propriedades do servidor, gamerules, alocação de memória e argumentos do Java. As gamerules são geradas como um datapack com estruturas compatíveis com versões antigas e recentes do Minecraft. O servidor configurado pode ser baixado em um ZIP ou enviado ao backend em Rust para execução.\n\nO backend gerencia o Docker com bollard e cria um container itzg/minecraft-server com um diretório persistente de dados para cada servidor. O proxy mc-router direciona os jogadores pelo hostname, inicia os servidores quando alguém se conecta e os desliga após um período de inatividade. MOTDs personalizados indicam quando o servidor está desligado ou carregando."
+pt-BR = "Desenvolvi o Minecraft Server Builder para reunir configuração, geração de builds e implantação de servidores em um único fluxo. Criei tanto a interface React/TypeScript quanto o backend Rust que gerencia o Docker. O aplicativo resolve versões, loaders e conteúdos compatíveis no Modrinth, obtém arquivos de servidor no MCJars e usa metadados da Minecraft Wiki para descrever as configurações. É possível importar um .mrpack ou selecionar mods e datapacks individualmente.\n\nA interface em React e TypeScript permite ajustar propriedades do servidor, gamerules, alocação de memória e argumentos do Java. As gamerules são geradas como um datapack com estruturas compatíveis com versões antigas e recentes do Minecraft. O servidor configurado pode ser baixado em um ZIP ou enviado ao backend em Rust para execução.\n\nO backend gerencia o Docker com bollard e cria um container itzg/minecraft-server com um diretório persistente de dados para cada servidor. O proxy mc-router direciona os jogadores pelo hostname, inicia os servidores quando alguém se conecta e os desliga após um período de inatividade. MOTDs personalizados indicam quando o servidor está desligado ou carregando."
+
+[content.project.01.kind]
+en = "Server setup and hosting tool"
+pt = "Ferramenta de configuração e hospedagem de servidores"
+pt-BR = "Ferramenta de configuração e hospedagem de servidores"
+
+[content.project.01.plate.1]
+en = "Find a modpack"
+pt = "Busca de um modpack"
+pt-BR = "Busca de um modpack"
+[content.project.01.plate.2]
+en = "Modpack ready for configuration"
+pt = "Modpack pronto para configurar"
+pt-BR = "Modpack pronto para configurar"
+[content.project.01.plate.3]
+en = "Contents of the server build"
+pt = "Conteúdo do servidor a montar"
+pt-BR = "Conteúdo do servidor a montar"
+[content.project.01.plate.4]
+en = "Game settings for this server"
+pt = "Configurações de jogo do servidor"
+pt-BR = "Configurações de jogo do servidor"
+[content.project.01.plate.5]
+en = "The generated startup script"
+pt = "Script de inicialização gerado"
+pt-BR = "Script de inicialização gerado"
+[content.project.01.tag.1]
+en = "Rust"
+pt = "Rust"
+pt-BR = "Rust"
+
+[content.project.01.tag.2]
+en = "Axum"
+pt = "Axum"
+pt-BR = "Axum"
+
+[content.project.01.tag.3]
+en = "Docker"
+pt = "Docker"
+pt-BR = "Docker"
+
+[content.project.01.tag.4]
+en = "React 19"
+pt = "React 19"
+pt-BR = "React 19"
+
+[content.project.01.tag.5]
+en = "TypeScript"
+pt = "TypeScript"
+pt-BR = "TypeScript"
+
+[content.project.01.tag.6]
+en = "Vite"
+pt = "Vite"
+pt-BR = "Vite"
+
+[content.project.01.tag.7]
+en = "TanStack Query"
+pt = "TanStack Query"
+pt-BR = "TanStack Query"
+
+[content.project.01.tag.8]
+en = "Zustand"
+pt = "Zustand"
+pt-BR = "Zustand"
+
+[content.project.01.tag.9]
+en = "Tailwind 4"
+pt = "Tailwind 4"
+pt-BR = "Tailwind 4"
+
+[content.project.01.title]
+en = "Minecraft Server Builder"
+pt = "Minecraft Server Builder"
+pt-BR = "Minecraft Server Builder"
+
+[content.project.02.brief]
+en = "An image-processing application with desktop and self-hosted web versions. It combines upscaling, resizing, format conversion, and PDF processing on infrastructure controlled by the user."
+pt = "Aplicativo de processamento de imagens com versões para desktop e web self-hosted. Reúne ampliação, redimensionamento, conversão de formatos e processamento de PDFs em infraestrutura controlada pelo usuário."
+pt-BR = "Aplicativo de processamento de imagens com versões para desktop e web self-hosted. Reúne ampliação, redimensionamento, conversão de formatos e processamento de PDFs em infraestrutura controlada pelo usuário."
+
+[content.project.02.detail]
+en = "I designed and built Mutaria as an image-processing application with desktop and self-hosted web versions. The desktop build processes files locally, while the web version runs on infrastructure chosen by its operator. Server jobs continue after disconnections, progress is recovered when the client reconnects, and stored state survives restarts. Both versions share a Rust codebase and Leptos interface, with Actix Web serving the API and Tauri packaging the desktop application.\n\nProcessing jobs combine operations in sequence, including Real-ESRGAN upscaling, resizing to specified dimensions, and format conversion. The application also creates PDFs from images and renders selected PDF pages at 72–300 DPI. Batch resizing supports up to 100 images, and results are available individually or in a ZIP archive.\n\nNCNN and Vulkan support processing on Intel, AMD, and NVIDIA GPUs, with a CPU fallback. Installed models determine the available 2×, 3×, and 4× upscaling options. Server jobs continue after a tab closes or the connection drops; progress is recovered on reconnection, and stored state survives restarts. Interrupted steps are prepared for retry. Cancellation covers uploads and active processing, busy devices queue work, and specific errors distinguish encrypted PDFs, unsupported formats, and size limits."
+pt = "Projetei e desenvolvi o Mutaria como um aplicativo de processamento de imagens com versões desktop e web auto-hospedada. A versão desktop processa arquivos localmente; a versão web roda na infraestrutura escolhida por quem a opera. Os jobs do servidor continuam após desconexões, o progresso é recuperado quando o cliente reconecta e o estado salvo sobrevive a reinicializações. As duas versões compartilham o código Rust e a interface Leptos, com Actix Web na API e Tauri no empacotamento desktop.\n\nAs tarefas combinam operações em sequência, como ampliação com Real-ESRGAN, redimensionamento para dimensões específicas e conversão de formatos. O aplicativo também gera PDFs a partir de imagens e renderiza páginas selecionadas de PDF entre 72 e 300 DPI. O redimensionamento em lote aceita até 100 imagens, e os resultados ficam disponíveis individualmente ou em um arquivo ZIP.\n\nO processamento usa NCNN e Vulkan em GPUs Intel, AMD e NVIDIA, com fallback para CPU. Os modelos instalados determinam as opções de ampliação de 2×, 3× e 4×. As tarefas do servidor continuam após o fechamento da aba ou a perda de conexão; o progresso é recuperado ao reconectar, e o estado salvo é mantido após reinicializações. Etapas interrompidas ficam preparadas para uma nova tentativa. O cancelamento funciona durante o upload e o processamento, dispositivos ocupados enfileiram tarefas e os erros distinguem PDFs criptografados, formatos incompatíveis e limites de tamanho."
+pt-BR = "Projetei e desenvolvi o Mutaria como um aplicativo de processamento de imagens com versões desktop e web auto-hospedada. A versão desktop processa arquivos localmente; a versão web roda na infraestrutura escolhida por quem a opera. Os jobs do servidor continuam após desconexões, o progresso é recuperado quando o cliente reconecta e o estado salvo sobrevive a reinicializações. As duas versões compartilham o código Rust e a interface Leptos, com Actix Web na API e Tauri no empacotamento desktop.\n\nAs tarefas combinam operações em sequência, como ampliação com Real-ESRGAN, redimensionamento para dimensões específicas e conversão de formatos. O aplicativo também gera PDFs a partir de imagens e renderiza páginas selecionadas de PDF entre 72 e 300 DPI. O redimensionamento em lote aceita até 100 imagens, e os resultados ficam disponíveis individualmente ou em um arquivo ZIP.\n\nO processamento usa NCNN e Vulkan em GPUs Intel, AMD e NVIDIA, com fallback para CPU. Os modelos instalados determinam as opções de ampliação de 2×, 3× e 4×. As tarefas do servidor continuam após o fechamento da aba ou a perda de conexão; o progresso é recuperado ao reconectar, e o estado salvo é mantido após reinicializações. Etapas interrompidas ficam preparadas para uma nova tentativa. O cancelamento funciona durante o upload e o processamento, dispositivos ocupados enfileiram tarefas e os erros distinguem PDFs criptografados, formatos incompatíveis e limites de tamanho."
+
+[content.project.02.kind]
+en = "Image-processing application"
+pt = "Aplicativo de processamento de imagens"
+pt-BR = "Aplicativo de processamento de imagens"
+
+[content.project.02.plate.1]
+en = "A completed 4× enlargement"
+pt = "Ampliação de 4× concluída"
+pt-BR = "Ampliação de 4× concluída"
+[content.project.02.plate.2]
+en = "Processing progress at 25%"
+pt = "Progresso do processamento em 25%"
+pt-BR = "Progresso do processamento em 25%"
+[content.project.02.plate.3]
+en = "Pages selected for conversion"
+pt = "Páginas selecionadas para conversão"
+pt-BR = "Páginas selecionadas para conversão"
+[content.project.02.plate.4]
+en = "An animation in the converter"
+pt = "Animação no conversor"
+pt-BR = "Animação no conversor"
+[content.project.02.plate.5]
+en = "The result of resizing"
+pt = "Resultado do redimensionamento"
+pt-BR = "Resultado do redimensionamento"
+[content.project.02.tag.1]
+en = "Rust"
+pt = "Rust"
+pt-BR = "Rust"
+
+[content.project.02.tag.2]
+en = "Actix Web"
+pt = "Actix Web"
+pt-BR = "Actix Web"
+
+[content.project.02.tag.3]
+en = "Leptos"
+pt = "Leptos"
+pt-BR = "Leptos"
+
+[content.project.02.tag.4]
+en = "WASM"
+pt = "WASM"
+pt-BR = "WASM"
+
+[content.project.02.tag.5]
+en = "SQLite"
+pt = "SQLite"
+pt-BR = "SQLite"
+
+[content.project.02.tag.6]
+en = "Real-ESRGAN"
+pt = "Real-ESRGAN"
+pt-BR = "Real-ESRGAN"
+
+[content.project.02.tag.7]
+en = "NCNN"
+pt = "NCNN"
+pt-BR = "NCNN"
+
+[content.project.02.tag.8]
+en = "Vulkan"
+pt = "Vulkan"
+pt-BR = "Vulkan"
+
+[content.project.02.tag.9]
+en = "PDFium"
+pt = "PDFium"
+pt-BR = "PDFium"
+
+[content.project.02.tag.10]
+en = "Tauri 2"
+pt = "Tauri 2"
+pt-BR = "Tauri 2"
+
+[content.project.02.tag.11]
+en = "Docker"
+pt = "Docker"
+pt-BR = "Docker"
+
+[content.project.02.title]
+en = "Mutaria"
+pt = "Mutaria"
+pt-BR = "Mutaria"
+
+[content.project.03.brief]
+en = "A two-node homelab that hosts my applications, media services, home automation, and game servers. I manage deployment, networking, and DNS automation."
+pt = "Homelab com dois nós que hospeda minhas aplicações, serviços de mídia, automação residencial e servidores de jogos. Sou responsável pelos deploys, pelas redes e pela automação de DNS."
+pt-BR = "Homelab com dois nós que hospeda minhas aplicações, serviços de mídia, automação residencial e servidores de jogos. Sou responsável pelos deploys, pelas redes e pela automação de DNS."
+
+[content.project.03.detail]
+en = "I operate a two-node homelab with an amd64 manager and an arm64 worker, running approximately thirty Docker Compose and Swarm stacks. I manage deployment, networking, service isolation, and automation for applications, media, email, home automation, source-code hosting, and game servers. Configuration scripts restore service settings after backup recovery.\n\nThe network design separates service traffic, data stores, and LAN-facing containers. A private overlay connects services, macvlan assigns containers their own LAN and public IPv6 addresses, and internal networks isolate databases without outbound access. Services hosted for friends use dedicated bridges and WireGuard access, without routes into the lab or LAN.\n\nDNS automation uses container labels to update Cloudflare records across accounts and zones, including IPv6 changes caused by the ISP. Traefik handles traffic and TLS with a Let's Encrypt wildcard issued through DNS-01, as well as Minecraft routing and MQTT TLS. A restricted Docker API proxy provides container discovery across the two nodes.\n\nThe media services share paths to support hardlink imports while downloads continue seeding. Configuration scripts can restore service settings after a backup recovery. Approximately 2,500 lines of Bash and Python automate networking, DNS, routing, and service configuration."
+pt = "Opero um homelab de dois nós, com um manager amd64 e um worker arm64, que executa aproximadamente trinta stacks Docker Compose e Swarm. Gerencio implantação, redes, isolamento de serviços e automação para aplicativos, mídia, e-mail, automação residencial, hospedagem de código e servidores de jogos. Scripts de configuração restauram os ajustes dos serviços após a recuperação de backups.\n\nA arquitetura de rede separa o tráfego dos serviços, os bancos de dados e os containers com acesso à LAN. Um overlay privado conecta os serviços, a rede macvlan atribui endereços próprios na LAN e IPv6 públicos aos containers, e redes internas isolam os bancos sem acesso externo. Os serviços hospedados para amigos usam bridges dedicadas e acesso por WireGuard, sem rotas para as redes do lab ou para a LAN.\n\nA automação de DNS usa labels dos containers para atualizar registros no Cloudflare em diferentes contas e zonas, incluindo mudanças de IPv6 feitas pelo provedor. O Traefik gerencia o tráfego e o TLS com um wildcard do Let's Encrypt emitido por DNS-01, além do roteamento de Minecraft e do TLS para MQTT. Um proxy restrito da API Docker permite descobrir containers nos dois nós.\n\nOs serviços de mídia compartilham caminhos para permitir importações por hardlink sem interromper o seeding dos downloads. Scripts de configuração permitem recuperar as configurações dos serviços após a restauração de um backup. Cerca de 2.500 linhas de Bash e Python automatizam as redes, o DNS, as rotas e a configuração dos serviços."
+pt-BR = "Opero um homelab de dois nós, com um manager amd64 e um worker arm64, que executa aproximadamente trinta stacks Docker Compose e Swarm. Gerencio implantação, redes, isolamento de serviços e automação para aplicativos, mídia, e-mail, automação residencial, hospedagem de código e servidores de jogos. Scripts de configuração restauram os ajustes dos serviços após a recuperação de backups.\n\nA arquitetura de rede separa o tráfego dos serviços, os bancos de dados e os containers com acesso à LAN. Um overlay privado conecta os serviços, a rede macvlan atribui endereços próprios na LAN e IPv6 públicos aos containers, e redes internas isolam os bancos sem acesso externo. Os serviços hospedados para amigos usam bridges dedicadas e acesso por WireGuard, sem rotas para as redes do lab ou para a LAN.\n\nA automação de DNS usa labels dos containers para atualizar registros no Cloudflare em diferentes contas e zonas, incluindo mudanças de IPv6 feitas pelo provedor. O Traefik gerencia o tráfego e o TLS com um wildcard do Let's Encrypt emitido por DNS-01, além do roteamento de Minecraft e do TLS para MQTT. Um proxy restrito da API Docker permite descobrir containers nos dois nós.\n\nOs serviços de mídia compartilham caminhos para permitir importações por hardlink sem interromper o seeding dos downloads. Scripts de configuração permitem recuperar as configurações dos serviços após a restauração de um backup. Cerca de 2.500 linhas de Bash e Python automatizam as redes, o DNS, as rotas e a configuração dos serviços."
+
+[content.project.03.kind]
+en = "Homelab and service hosting"
+pt = "Homelab e hospedagem de serviços"
+pt-BR = "Homelab e hospedagem de serviços"
+
+[content.project.03.plate.1]
+en = "Traffic routes in Traefik"
+pt = "Rotas de tráfego no Traefik"
+pt-BR = "Rotas de tráfego no Traefik"
+
+[content.project.03.plate.2]
+en = "Cloudflare records managed by labels"
+pt = "Registros no Cloudflare gerenciados por labels"
+pt-BR = "Registros no Cloudflare gerenciados por labels"
+
+[content.project.03.plate.3]
+en = "How the lab networks connect"
+pt = "Conexões entre as redes do lab"
+pt-BR = "Conexões entre as redes do lab"
+
+[content.project.03.plate.4]
+en = "Workloads on the manager and worker"
+pt = "Serviços no manager e no worker"
+pt-BR = "Serviços no manager e no worker"
+
+[content.project.03.tag.1]
+en = "Docker Swarm"
+pt = "Docker Swarm"
+pt-BR = "Docker Swarm"
+
+[content.project.03.tag.2]
+en = "Traefik"
+pt = "Traefik"
+pt-BR = "Traefik"
+
+[content.project.03.tag.3]
+en = "Cloudflare API"
+pt = "Cloudflare API"
+pt-BR = "Cloudflare API"
+
+[content.project.03.tag.4]
+en = "macvlan"
+pt = "macvlan"
+pt-BR = "macvlan"
+
+[content.project.03.tag.5]
+en = "WireGuard"
+pt = "WireGuard"
+pt-BR = "WireGuard"
+
+[content.project.03.tag.6]
+en = "Mosquitto"
+pt = "Mosquitto"
+pt-BR = "Mosquitto"
+
+[content.project.03.tag.7]
+en = "Bash"
+pt = "Bash"
+pt-BR = "Bash"
+
+[content.project.03.tag.8]
+en = "Python"
+pt = "Python"
+pt-BR = "Python"
+
+[content.project.03.title]
+en = "LAB"
+pt = "LAB"
+pt-BR = "LAB"
+
+[content.project.04.brief]
+en = "A desktop application developed for document translation. It integrates DeepL and ChatGPT while preserving the original layout of Office documents."
+pt = "Aplicativo desktop desenvolvido para tradução de documentos. Integra DeepL e ChatGPT e preserva o layout original dos arquivos do Office."
+pt-BR = "Aplicativo desktop desenvolvido para tradução de documentos. Integra DeepL e ChatGPT e preserva o layout original dos arquivos do Office."
+
+[content.project.04.detail]
+en = "Developed AI Translator during my first internship at a translation company, reducing document translation and review time by 30% while preserving Office-document formatting. The application handles text alongside tables, styled paragraphs, slides, and charts. I later released the project under GPL-3.0.\n\nThe Python core reads Word, PowerPoint, and Excel files and inserts translations into their existing structure. Markers keep text fragments together when formatting splits a sentence, then map the translation back to the original fragments. Chart data is updated through the presentation library. DeepL and ChatGPT use the same document workflow with an API key supplied by the user. Glossaries, token estimates, and a translation cache support terminology consistency and request management.\n\nRust calls the Python core in-process through PyO3 and Tauri, without a separate document server. Windows builds include Python and install dependencies on first launch, with progress displayed in the interface. GitHub Actions handles builds, and the application supports automatic updates."
+pt = "Desenvolvi o AI Translator durante meu primeiro estágio em uma empresa de tradução, reduzindo o tempo de tradução e revisão de documentos em 30% sem perder a formatação dos arquivos do Office. O aplicativo trabalha com texto, tabelas, parágrafos estilizados, slides e gráficos. Depois, publiquei o projeto sob a licença GPL-3.0.\n\nO core em Python lê arquivos do Word, PowerPoint e Excel e insere as traduções na estrutura existente. Marcadores mantêm os fragmentos de texto juntos quando a formatação divide uma frase e depois distribuem a tradução entre os trechos originais. Os dados dos gráficos são atualizados pela biblioteca de apresentações. DeepL e ChatGPT usam o mesmo fluxo de documentos, com uma chave de API fornecida pelo usuário. Glossários, estimativas de tokens e um cache de traduções ajudam a manter a terminologia e a gerenciar as requisições.\n\nO Rust chama o core Python no mesmo processo por PyO3 e Tauri, sem um servidor separado para os documentos. Os builds de Windows incluem Python e instalam as dependências na primeira execução, com o progresso exibido na interface. O GitHub Actions executa os builds, e o aplicativo oferece atualização automática."
+pt-BR = "Desenvolvi o AI Translator durante meu primeiro estágio em uma empresa de tradução, reduzindo o tempo de tradução e revisão de documentos em 30% sem perder a formatação dos arquivos do Office. O aplicativo trabalha com texto, tabelas, parágrafos estilizados, slides e gráficos. Depois, publiquei o projeto sob a licença GPL-3.0.\n\nO core em Python lê arquivos do Word, PowerPoint e Excel e insere as traduções na estrutura existente. Marcadores mantêm os fragmentos de texto juntos quando a formatação divide uma frase e depois distribuem a tradução entre os trechos originais. Os dados dos gráficos são atualizados pela biblioteca de apresentações. DeepL e ChatGPT usam o mesmo fluxo de documentos, com uma chave de API fornecida pelo usuário. Glossários, estimativas de tokens e um cache de traduções ajudam a manter a terminologia e a gerenciar as requisições.\n\nO Rust chama o core Python no mesmo processo por PyO3 e Tauri, sem um servidor separado para os documentos. Os builds de Windows incluem Python e instalam as dependências na primeira execução, com o progresso exibido na interface. O GitHub Actions executa os builds, e o aplicativo oferece atualização automática."
+
+[content.project.04.kind]
+en = "Document translation software"
+pt = "Software de tradução de documentos"
+pt-BR = "Software de tradução de documentos"
+
+[content.project.04.plate.1]
+en = "Files waiting for translation"
+pt = "Arquivos aguardando tradução"
+pt-BR = "Arquivos aguardando tradução"
+
+[content.project.04.plate.2]
+en = "Document layout after translation"
+pt = "Layout do documento após a tradução"
+pt-BR = "Layout do documento após a tradução"
+
+[content.project.04.plate.3]
+en = "API configuration and terminology"
+pt = "Configuração da API e terminologia"
+pt-BR = "Configuração da API e terminologia"
+
+[content.project.04.plate.4]
+en = "Token usage estimate"
+pt = "Estimativa de uso de tokens"
+pt-BR = "Estimativa de uso de tokens"
+
+[content.project.04.tag.1]
+en = "Rust"
+pt = "Rust"
+pt-BR = "Rust"
+
+[content.project.04.tag.2]
+en = "Tauri 2"
+pt = "Tauri 2"
+pt-BR = "Tauri 2"
+
+[content.project.04.tag.3]
+en = "PyO3"
+pt = "PyO3"
+pt-BR = "PyO3"
+
+[content.project.04.tag.4]
+en = "Python"
+pt = "Python"
+pt-BR = "Python"
+
+[content.project.04.tag.5]
+en = "python-docx"
+pt = "python-docx"
+pt-BR = "python-docx"
+
+[content.project.04.tag.6]
+en = "python-pptx"
+pt = "python-pptx"
+pt-BR = "python-pptx"
+
+[content.project.04.tag.7]
+en = "tiktoken"
+pt = "tiktoken"
+pt-BR = "tiktoken"
+
+[content.project.04.tag.8]
+en = "DeepL"
+pt = "DeepL"
+pt-BR = "DeepL"
+
+[content.project.04.tag.9]
+en = "OpenAI"
+pt = "OpenAI"
+pt-BR = "OpenAI"
+
+[content.project.04.title]
+en = "AI Translator"
+pt = "AI Translator"
+pt-BR = "AI Translator"
+
+[content.project.05.brief]
+en = "A multiplayer 3D exhibition with synchronized movement and object interaction. Visitors share a gallery where they can explore the displayed works in real time."
+pt = "Exposição 3D multiplayer com movimentação e interação com objetos sincronizadas. Os visitantes compartilham uma galeria e podem explorar as obras expostas em tempo real."
+pt-BR = "Exposição 3D multiplayer com movimentação e interação com objetos sincronizadas. Os visitantes compartilham uma galeria e podem explorar as obras expostas em tempo real."
+
+[content.project.05.detail]
+en = "I developed Socket Gallery as a shared exhibition using React Three Fiber. The scene includes modeled frames, lamps, and stands, with character movement, object interaction, and multiplayer sessions. Visitors can read the displayed works and see other participants moving through the gallery.\n\nSessions run at a fixed 20 Hz. The room creator publishes world updates, while guests send their own character state. New participants receive an initial snapshot; subsequent updates contain only changed objects, based on position, rotation, scale, and attached data, with a tolerance of 0.001 units. Redis stores room membership, and a Node/Express service with Socket.IO relays updates and WebRTC signaling.\n\nCharacter movement uses rays cast from the object's vertices to test surrounding geometry. Surface normals from those tests resolve collisions and allow movement along walls."
+pt = "Desenvolvi o Socket Gallery como uma exposição compartilhada com React Three Fiber. A cena inclui quadros, luminárias e suportes modelados, com movimentação de personagens, interação com objetos e sessões multiplayer. Os visitantes podem ler as obras expostas e acompanhar a movimentação dos outros participantes pela galeria.\n\nAs sessões operam em um ciclo fixo de 20 Hz. O criador da sala publica as atualizações do cenário, enquanto os convidados enviam o estado dos próprios personagens. Novos participantes recebem um snapshot inicial; as atualizações seguintes incluem apenas os objetos alterados, considerando posição, rotação, escala e dados associados, com tolerância de 0,001 unidade. O Redis armazena os participantes das salas, e um serviço Node/Express com Socket.IO retransmite atualizações e a sinalização do WebRTC.\n\nA movimentação dos personagens usa raios lançados dos vértices do objeto para testar a geometria ao redor. As normais das superfícies encontradas resolvem as colisões e permitem o deslocamento ao longo das paredes."
+pt-BR = "Desenvolvi o Socket Gallery como uma exposição compartilhada com React Three Fiber. A cena inclui quadros, luminárias e suportes modelados, com movimentação de personagens, interação com objetos e sessões multiplayer. Os visitantes podem ler as obras expostas e acompanhar a movimentação dos outros participantes pela galeria.\n\nAs sessões operam em um ciclo fixo de 20 Hz. O criador da sala publica as atualizações do cenário, enquanto os convidados enviam o estado dos próprios personagens. Novos participantes recebem um snapshot inicial; as atualizações seguintes incluem apenas os objetos alterados, considerando posição, rotação, escala e dados associados, com tolerância de 0,001 unidade. O Redis armazena os participantes das salas, e um serviço Node/Express com Socket.IO retransmite atualizações e a sinalização do WebRTC.\n\nA movimentação dos personagens usa raios lançados dos vértices do objeto para testar a geometria ao redor. As normais das superfícies encontradas resolvem as colisões e permitem o deslocamento ao longo das paredes."
+
+[content.project.05.kind]
+en = "Shared 3D environment"
+pt = "Ambiente 3D compartilhado"
+pt-BR = "Ambiente 3D compartilhado"
+
+[content.project.05.plate.1]
+en = "People visiting the exhibition"
+pt = "Pessoas visitando a exposição"
+pt-BR = "Pessoas visitando a exposição"
+
+[content.project.05.plate.2]
+en = "Available shared sessions"
+pt = "Sessões compartilhadas disponíveis"
+pt-BR = "Sessões compartilhadas disponíveis"
+
+[content.project.05.plate.3]
+en = "The same interaction on two screens"
+pt = "A mesma interação em duas telas"
+pt-BR = "A mesma interação em duas telas"
+
+[content.project.05.tag.1]
+en = "TypeScript"
+pt = "TypeScript"
+pt-BR = "TypeScript"
+
+[content.project.05.tag.2]
+en = "React"
+pt = "React"
+pt-BR = "React"
+
+[content.project.05.tag.3]
+en = "React Three Fiber"
+pt = "React Three Fiber"
+pt-BR = "React Three Fiber"
+
+[content.project.05.tag.4]
+en = "Three.js"
+pt = "Three.js"
+pt-BR = "Three.js"
+
+[content.project.05.tag.5]
+en = "Socket.IO"
+pt = "Socket.IO"
+pt-BR = "Socket.IO"
+
+[content.project.05.tag.6]
+en = "WebRTC"
+pt = "WebRTC"
+pt-BR = "WebRTC"
+
+[content.project.05.tag.7]
+en = "Redis"
+pt = "Redis"
+pt-BR = "Redis"
+
+[content.project.05.tag.8]
+en = "Vite"
+pt = "Vite"
+pt-BR = "Vite"
+
+[content.project.05.title]
+en = "Socket Gallery"
+pt = "Socket Gallery"
+pt-BR = "Socket Gallery"
+
+[content.project.06.brief]
+en = "ESP32 firmware for door access through cards and fingerprints. A local list of authorized cards keeps access available when the backend is unreachable."
+pt = "Firmware para ESP32 que controla o acesso a portas por cartão e impressão digital. Uma lista local de cartões autorizados mantém o acesso disponível quando o backend está indisponível."
+pt-BR = "Firmware para ESP32 que controla o acesso a portas por cartão e impressão digital. Uma lista local de cartões autorizados mantém o acesso disponível quando o backend está indisponível."
+
+[content.project.06.detail]
+en = "I designed the Sphynx firmware for an ESP32 access-control device that verifies cards and fingerprints, operates a door lock, and reports access decisions to a permission-management backend. Authorized cards are stored in flash, allowing access to continue when the backend is unavailable.\n\nThe C++ firmware uses PlatformIO and has separate modes for access control, card registration, and fingerprint enrollment. Administrators can initiate enrollment through a live connection. PN532 and MFRC522 readers share an interface selected at build time; PN532 is the default because it supports dynamic card IDs. A separate library handles the fingerprint sensor.\n\nWi-Fi setup uses a pairing page served through the device's access point. Once connected, the device publishes its address and hardware ID to discover the appropriate API. Remote unlock requests are validated against a stored token, an LED indicates status, and the relay closes again after five seconds. The project also became the subject of my academic article and led to my participation in Instituto TIM's AWC 2024 program."
+pt = "Projetei o firmware do Sphynx para um dispositivo de controle de acesso com ESP32 que verifica cartões e impressões digitais, aciona a fechadura e informa as decisões de acesso ao backend de gerenciamento de permissões. Os cartões autorizados ficam armazenados na memória flash, permitindo o acesso quando o backend está indisponível.\n\nO firmware em C++ usa PlatformIO e possui modos separados para controle de acesso, cadastro de cartões e cadastro de impressões digitais. O administrador pode iniciar o cadastro por uma conexão ao vivo. Os leitores PN532 e MFRC522 compartilham uma interface selecionada no build; o PN532 é o padrão por oferecer suporte a IDs dinâmicos de cartões. Uma biblioteca separada gerencia o sensor de impressão digital.\n\nA configuração do Wi-Fi usa uma página de pareamento disponibilizada pelo ponto de acesso do dispositivo. Após a conexão, ele publica seu endereço e identificador de hardware para descobrir a API correspondente. Os pedidos de abertura remota são validados com um token armazenado, um LED indica o estado e o relé fecha novamente após cinco segundos. O projeto também foi tema do meu artigo acadêmico e levou à minha participação no programa AWC 2024 do Instituto TIM."
+pt-BR = "Projetei o firmware do Sphynx para um dispositivo de controle de acesso com ESP32 que verifica cartões e impressões digitais, aciona a fechadura e informa as decisões de acesso ao backend de gerenciamento de permissões. Os cartões autorizados ficam armazenados na memória flash, permitindo o acesso quando o backend está indisponível.\n\nO firmware em C++ usa PlatformIO e possui modos separados para controle de acesso, cadastro de cartões e cadastro de impressões digitais. O administrador pode iniciar o cadastro por uma conexão ao vivo. Os leitores PN532 e MFRC522 compartilham uma interface selecionada no build; o PN532 é o padrão por oferecer suporte a IDs dinâmicos de cartões. Uma biblioteca separada gerencia o sensor de impressão digital.\n\nA configuração do Wi-Fi usa uma página de pareamento disponibilizada pelo ponto de acesso do dispositivo. Após a conexão, ele publica seu endereço e identificador de hardware para descobrir a API correspondente. Os pedidos de abertura remota são validados com um token armazenado, um LED indica o estado e o relé fecha novamente após cinco segundos. O projeto também foi tema do meu artigo acadêmico e levou à minha participação no programa AWC 2024 do Instituto TIM."
+
+[content.project.06.kind]
+en = "Door-access firmware"
+pt = "Firmware para controle de acesso a portas"
+pt-BR = "Firmware para controle de acesso a portas"
+
+[content.project.06.plate.1]
+en = "The installed door reader"
+pt = "Leitor instalado na porta"
+pt-BR = "Leitor instalado na porta"
+
+[content.project.06.plate.2]
+en = "Choosing Wi-Fi during setup"
+pt = "Escolha do Wi-Fi na configuração"
+pt-BR = "Escolha do Wi-Fi na configuração"
+
+[content.project.06.plate.3]
+en = "Adding an authorized card"
+pt = "Cadastro de um cartão autorizado"
+pt-BR = "Cadastro de um cartão autorizado"
+
+[content.project.06.plate.4]
+en = "Local permissions without a connection"
+pt = "Permissões locais sem conexão"
+pt-BR = "Permissões locais sem conexão"
+
+[content.project.06.tag.1]
+en = "C++"
+pt = "C++"
+pt-BR = "C++"
+
+[content.project.06.tag.2]
+en = "ESP32"
+pt = "ESP32"
+pt-BR = "ESP32"
+
+[content.project.06.tag.3]
+en = "PlatformIO"
+pt = "PlatformIO"
+pt-BR = "PlatformIO"
+
+[content.project.06.tag.4]
+en = "PN532"
+pt = "PN532"
+pt-BR = "PN532"
+
+[content.project.06.tag.5]
+en = "MFRC522"
+pt = "MFRC522"
+pt-BR = "MFRC522"
+
+[content.project.06.tag.6]
+en = "ESPAsyncWebServer"
+pt = "ESPAsyncWebServer"
+pt-BR = "ESPAsyncWebServer"
+
+[content.project.06.tag.7]
+en = "NVS"
+pt = "NVS"
+pt-BR = "NVS"
+
+[content.project.06.tag.8]
+en = "WebSockets"
+pt = "WebSockets"
+pt-BR = "WebSockets"
+
+[content.project.06.title]
+en = "Sphynx"
+pt = "Sphynx"
+pt-BR = "Sphynx"
+
+[content.project.07.brief]
+en = "A playlist migration application for Spotify and YouTube. It compares candidate recordings, displays match scores, and allows users to review alternative results."
+pt = "Aplicativo de migração de playlists entre Spotify e YouTube. Compara as gravações encontradas, exibe as pontuações de correspondência e permite revisar resultados alternativos."
+pt-BR = "Aplicativo de migração de playlists entre Spotify e YouTube. Compara as gravações encontradas, exibe as pontuações de correspondência e permite revisar resultados alternativos."
+
+[content.project.07.detail]
+en = "Playlist Converter matches recordings across Spotify and YouTube using duration, title, artist, album, and channel information. Version terms such as live, cover, acoustic, and remix affect the score: different versions receive a penalty, while corresponding versions receive additional points.\n\nThe interface presents the best candidate alongside alternatives and score breakdowns, allowing users to review and correct matches. Duration differences above thirty seconds reject a candidate. Tutorial and disclaimer terms receive penalties, while YouTube topic channels provide additional matching signals.\n\nThe Expo/React Native client receives resolved tracks through a streamed response. A Node/Express backend written in TypeScript manages authentication and requests to both platforms, and cancels processing when the client disconnects. Playlist migration works in both directions."
+pt = "O Playlist Converter identifica gravações correspondentes no Spotify e no YouTube com base na duração, no título, no artista, no álbum e nas informações do canal. Termos de versão, como live, cover, acoustic e remix, afetam a pontuação: versões diferentes recebem uma penalidade, enquanto versões correspondentes recebem pontos adicionais.\n\nA interface apresenta o melhor candidato junto das alternativas e do detalhamento das pontuações, permitindo revisar e corrigir as correspondências. Diferenças de duração acima de trinta segundos descartam o candidato. Termos de tutorial e disclaimer recebem penalidades, enquanto canais de tópico do YouTube fornecem sinais adicionais para a comparação.\n\nO cliente Expo/React Native recebe as faixas identificadas em uma resposta contínua. Um backend Node/Express em TypeScript gerencia a autenticação e as requisições às duas plataformas e cancela o processamento quando o cliente desconecta. A migração de playlists funciona nos dois sentidos."
+pt-BR = "O Playlist Converter identifica gravações correspondentes no Spotify e no YouTube com base na duração, no título, no artista, no álbum e nas informações do canal. Termos de versão, como live, cover, acoustic e remix, afetam a pontuação: versões diferentes recebem uma penalidade, enquanto versões correspondentes recebem pontos adicionais.\n\nA interface apresenta o melhor candidato junto das alternativas e do detalhamento das pontuações, permitindo revisar e corrigir as correspondências. Diferenças de duração acima de trinta segundos descartam o candidato. Termos de tutorial e disclaimer recebem penalidades, enquanto canais de tópico do YouTube fornecem sinais adicionais para a comparação.\n\nO cliente Expo/React Native recebe as faixas identificadas em uma resposta contínua. Um backend Node/Express em TypeScript gerencia a autenticação e as requisições às duas plataformas e cancela o processamento quando o cliente desconecta. A migração de playlists funciona nos dois sentidos."
+
+[content.project.07.kind]
+en = "Music playlist migration"
+pt = "Migração de playlists de música"
+pt-BR = "Migração de playlists de música"
+
+[content.project.07.plate.1]
+en = "Choosing between track candidates"
+pt = "Escolha entre as músicas encontradas"
+pt-BR = "Escolha entre as músicas encontradas"
+
+[content.project.07.plate.2]
+en = "The completed playlist transfer"
+pt = "Transferência da playlist concluída"
+pt-BR = "Transferência da playlist concluída"
+
+[content.project.07.tag.1]
+en = "TypeScript"
+pt = "TypeScript"
+pt-BR = "TypeScript"
+
+[content.project.07.tag.2]
+en = "React Native"
+pt = "React Native"
+pt-BR = "React Native"
+
+[content.project.07.tag.3]
+en = "Expo"
+pt = "Expo"
+pt-BR = "Expo"
+
+[content.project.07.tag.4]
+en = "Node"
+pt = "Node"
+pt-BR = "Node"
+
+[content.project.07.tag.5]
+en = "Express"
+pt = "Express"
+pt-BR = "Express"
+
+[content.project.07.tag.6]
+en = "Spotify Web API"
+pt = "Spotify Web API"
+pt-BR = "Spotify Web API"
+
+[content.project.07.tag.7]
+en = "YouTube Data API"
+pt = "YouTube Data API"
+pt-BR = "YouTube Data API"
+
+[content.project.07.tag.8]
+en = "Redis"
+pt = "Redis"
+pt-BR = "Redis"
+
+[content.project.07.title]
+en = "Playlist Converter"
+pt = "Playlist Converter"
+pt-BR = "Playlist Converter"
+
+[content.role.01.location]
+en = "Poá, SP, Brazil · Hybrid"
+pt = "Poá, SP, Brasil · Híbrido"
+pt-BR = "Poá, SP, Brasil · Híbrido"
+
+[content.role.01.period]
+en = "Apr 2026 – Present"
+pt = "Abr 2026 – Atual"
+pt-BR = "Abr 2026 – Atual"
+
+[content.role.01.point.1]
+en = "Increased rendering throughput from approximately 15 to 250 FPS, a 16.7× improvement, in a benchmark scene containing more than three million polygons. Implemented mesh batching and instancing, geometry reuse, caching, and resource management; measured the result on an i5-10300H laptop with a GTX 1650 and 16 GB of RAM."
+pt = "Aumentei a taxa de quadros de aproximadamente 15 para 250 FPS, uma melhoria de 16,7×, em uma cena de teste com mais de três milhões de polígonos. Implementei batching e instancing de malhas, reutilização de geometria, cache e gerenciamento de recursos. Medi o resultado em um notebook com i5-10300H, GTX 1650 e 16 GB de RAM."
+pt-BR = "Aumentei a taxa de quadros de aproximadamente 15 para 250 FPS, uma melhoria de 16,7×, em uma cena de teste com mais de três milhões de polígonos. Implementei batching e instancing de malhas, reutilização de geometria, cache e gerenciamento de recursos. Medi o resultado em um notebook com i5-10300H, GTX 1650 e 16 GB de RAM."
+
+[content.role.01.point.2]
+en = "Reduced memory use by more than 50% in measured workloads by optimizing geometry caches and resource loading."
+pt = "Reduzi o consumo de memória em mais de 50% nas cargas medidas ao otimizar caches de geometria e o carregamento de recursos."
+pt-BR = "Reduzi o consumo de memória em mais de 50% nas cargas medidas ao otimizar caches de geometria e o carregamento de recursos."
+
+[content.role.01.point.3]
+en = "Improved raycasting performance by approximately 22% in measured workloads through BVH acceleration and raycasting optimizations; contributed to SAT collision detection."
+pt = "Melhorei o desempenho do raycasting em aproximadamente 22% nas cargas medidas, com aceleração por BVH e otimizações no cálculo dos raios. Também contribuí para a detecção de colisões com SAT."
+pt-BR = "Melhorei o desempenho do raycasting em aproximadamente 22% nas cargas medidas, com aceleração por BVH e otimizações no cálculo dos raios. Também contribuí para a detecção de colisões com SAT."
+
+[content.role.01.point.4]
+en = "Enabled users to reuse object models in different sizes and shapes without changing the original. Built deformation controls, resize-profile previews, and openings that remain accurate when objects rotate."
+pt = "Permiti reutilizar modelos de objetos em tamanhos e formas diferentes sem alterar o original. Criei controles de deformação, prévias de perfis de redimensionamento e aberturas que mantêm a precisão quando os objetos giram."
+pt-BR = "Permiti reutilizar modelos de objetos em tamanhos e formas diferentes sem alterar o original. Criei controles de deformação, prévias de perfis de redimensionamento e aberturas que mantêm a precisão quando os objetos giram."
+
+[content.role.01.point.5]
+en = "Contributed transaction-based scene changes and clearer domain boundaries to make scene history and undo/redo more predictable; refined placement-conflict rules, arrangements, and pointer interactions."
+pt = "Contribuí para tornar o histórico de cenas e o undo/redo mais previsíveis, agrupando alterações em transações e reorganizando os limites entre domínios. Refinei regras de conflito de posicionamento, Arranjos e interações com o ponteiro."
+pt-BR = "Contribuí para tornar o histórico de cenas e o undo/redo mais previsíveis, agrupando alterações em transações e reorganizando os limites entre domínios. Refinei regras de conflito de posicionamento, Arranjos e interações com o ponteiro."
+
+[content.role.01.point.6]
+en = "Built System Manager for publishing, distributing, updating, and migrating NewCAD systems. Used asynchronous processing, reusable Zstandard-compressed chunks on Cloudflare R2, and caching, with workspace access rules and shared TypeScript contracts."
+pt = "Desenvolvi o System Manager para publicar, distribuir, atualizar e migrar os sistemas do NewCAD. Usei processamento assíncrono, chunks reutilizáveis comprimidos com Zstandard no Cloudflare R2 e cache, com regras de acesso por workspace e contratos TypeScript compartilhados."
+pt-BR = "Desenvolvi o System Manager para publicar, distribuir, atualizar e migrar os sistemas do NewCAD. Usei processamento assíncrono, chunks reutilizáveis comprimidos com Zstandard no Cloudflare R2 e cache, com regras de acesso por workspace e contratos TypeScript compartilhados."
+
+[content.role.01.point.7]
+en = "Standardized authentication and licence validation across four applications by building a shared SDK for ES256 JWTs and Ed25519 licences. Contributed MFA, hardware binding, and account erasure; co-developed desktop licensing and Rust integrity checks."
+pt = "Padronizei a autenticação e a validação de licenças em quatro aplicações com um SDK compartilhado para JWTs ES256 e licenças Ed25519. Contribuí com MFA, vínculo ao hardware e exclusão de contas, além de desenvolver, com um colega, o licenciamento do desktop e verificações de integridade em Rust."
+pt-BR = "Padronizei a autenticação e a validação de licenças em quatro aplicações com um SDK compartilhado para JWTs ES256 e licenças Ed25519. Contribuí com MFA, vínculo ao hardware e exclusão de contas, além de desenvolver, com um colega, o licenciamento do desktop e verificações de integridade em Rust."
+
+[content.role.01.point.8]
+en = "Built an OpenTelemetry ingestion gateway that validates records and scoped credentials, applies rate limits, and forwards metrics, logs, and traces through Grafana Alloy to Prometheus, Loki, and Tempo. Instrumented desktop workflows and created Grafana dashboards and email alerts to investigate feature usage, hardware, slow operations, rendering degradation, and telemetry-delivery failures."
+pt = "Criei um gateway de ingestão OpenTelemetry que valida registros e credenciais com escopo, limita requisições e encaminha métricas, logs e traces pelo Grafana Alloy para Prometheus, Loki e Tempo. Instrumentei os fluxos do desktop e criei dashboards no Grafana e alertas por e-mail para investigar o uso de funcionalidades, hardware, operações lentas, quedas na renderização e falhas na entrega de telemetria."
+pt-BR = "Criei um gateway de ingestão OpenTelemetry que valida registros e credenciais com escopo, limita requisições e encaminha métricas, logs e traces pelo Grafana Alloy para Prometheus, Loki e Tempo. Instrumentei os fluxos do desktop e criei dashboards no Grafana e alertas por e-mail para investigar o uso de funcionalidades, hardware, operações lentas, quedas na renderização e falhas na entrega de telemetria."
+
+[content.role.01.point.9]
+en = "Reviewed 50+ NewCAD pull requests as one of the team’s main code reviewers, working alongside the technical lead. Built a Docker-hosted AI review bot integrated through a GitHub App, allowing teammates to request inline feedback from pull-request comments. The bot supplements human review and is used by multiple team members."
+pt = "Revisei mais de 50 pull requests do NewCAD como um dos principais revisores de código da equipe, ao lado do líder técnico. Criei um bot de revisão com IA em Docker, integrado por um GitHub App, que permite solicitar comentários no código a partir dos comentários do PR. O bot é usado por vários integrantes da equipe e complementa a revisão humana."
+pt-BR = "Revisei mais de 50 pull requests do NewCAD como um dos principais revisores de código da equipe, ao lado do líder técnico. Criei um bot de revisão com IA em Docker, integrado por um GitHub App, que permite solicitar comentários no código a partir dos comentários do PR. O bot é usado por vários integrantes da equipe e complementa a revisão humana."
+
+[content.role.01.point.10]
+en = "Automated validation and package publication for shared authentication, telemetry, and release-manifest contracts through tag-driven GitHub Actions workflows."
+pt = "Automatizei a validação e a publicação de pacotes compartilhados de autenticação, telemetria e manifests de releases com workflows do GitHub Actions acionados por tags."
+pt-BR = "Automatizei a validação e a publicação de pacotes compartilhados de autenticação, telemetria e manifests de releases com workflows do GitHub Actions acionados por tags."
+
+[content.role.01.title]
+en = "3D Software Developer, Mid-level"
+pt = "Desenvolvedor de Software 3D Pleno"
+pt-BR = "Desenvolvedor de Software 3D Pleno"
+
+[content.role.02.location]
+en = "Poá, SP, Brazil · Hybrid"
+pt = "Poá, SP, Brasil · Híbrido"
+pt-BR = "Poá, SP, Brasil · Híbrido"
+
+[content.role.02.period]
+en = "Sep 2025 – Apr 2026"
+pt = "Set 2025 – Abr 2026"
+pt-BR = "Set 2025 – Abr 2026"
+
+[content.role.02.point.1]
+en = "Built a user preferences system for the NewCAD interior-design editor, allowing them to customize scene-element colors, component layout and size, and GPU selection."
+pt = "Desenvolvi um sistema de preferências do usuário para o editor de design de interiores do NewCAD, permitindo personalizar cores dos elementos da cena, layout e tamanho dos componentes e seleção de GPU."
+pt-BR = "Desenvolvi um sistema de preferências do usuário para o editor de design de interiores do NewCAD, permitindo personalizar cores dos elementos da cena, layout e tamanho dos componentes e seleção de GPU."
+
+[content.role.02.point.2]
+en = "Enabled users to customize keyboard shortcuts with conflict detection by cataloguing application actions, mapping key bindings, and building the configuration interface."
+pt = "Permiti que os usuários personalizassem atalhos de teclado com detecção de conflitos. Cataloguei as ações do aplicativo, mapeei as combinações de teclas e desenvolvi a interface de configuração."
+pt-BR = "Permiti que os usuários personalizassem atalhos de teclado com detecção de conflitos. Cataloguei as ações do aplicativo, mapeei as combinações de teclas e desenvolvi a interface de configuração."
+
+[content.role.02.point.3]
+en = "Added hide/show shortcuts and visibility controls, and improved entity state management so users could hide or delete scene objects."
+pt = "Adicionei atalhos e controles para ocultar e exibir objetos e melhorei o gerenciamento de estado das entidades para permitir a exclusão de objetos da cena."
+pt-BR = "Adicionei atalhos e controles para ocultar e exibir objetos e melhorei o gerenciamento de estado das entidades para permitir a exclusão de objetos da cena."
+
+[content.role.02.point.4]
+en = "Refactored rendering into separate paths for merged and unmerged geometry, improving cache and resource handling. Contributed math.js helpers and expression-processing services for calculating entity positions, dimensions, and other properties."
+pt = "Separei os caminhos de renderização de geometria agrupada e não agrupada, melhorando o cache e o gerenciamento de recursos. Contribuí com helpers em math.js e serviços de processamento de expressões para calcular posições, dimensões e outras propriedades das entidades."
+pt-BR = "Separei os caminhos de renderização de geometria agrupada e não agrupada, melhorando o cache e o gerenciamento de recursos. Contribuí com helpers em math.js e serviços de processamento de expressões para calcular posições, dimensões e outras propriedades das entidades."
+
+[content.role.02.point.5]
+en = "Built and maintained GitHub Actions workflows for desktop builds, tests, versioning, packaging, and release uploads to the update server."
+pt = "Criei e mantive workflows no GitHub Actions para builds do desktop, testes, versionamento, empacotamento e envio de releases ao servidor de atualizações."
+pt-BR = "Criei e mantive workflows no GitHub Actions para builds do desktop, testes, versionamento, empacotamento e envio de releases ao servidor de atualizações."
+
+[content.role.02.title]
+en = "3D Software Developer, Junior"
+pt = "Desenvolvedor de Software 3D Júnior"
+pt-BR = "Desenvolvedor de Software 3D Júnior"
+
+[content.role.03.location]
+en = "São Paulo, SP, Brazil · On site"
+pt = "São Paulo, SP, Brasil · Presencial"
+pt-BR = "São Paulo, SP, Brasil · Presencial"
+
+[content.role.03.period]
+en = "Jan 2025 – Sep 2025"
+pt = "Jan 2025 – Set 2025"
+pt-BR = "Jan 2025 – Set 2025"
+
+[content.role.03.point.1]
+en = "Reduced digital-library search latency from approximately 8 seconds to 15 ms by indexing over 150,000 documents in Elasticsearch across three redundant Docker Swarm servers."
+pt = "Reduzi a latência de busca da biblioteca digital de aproximadamente 8 segundos para 15 ms ao indexar mais de 150 mil documentos no Elasticsearch, em três servidores redundantes no Docker Swarm."
+pt-BR = "Reduzi a latência de busca da biblioteca digital de aproximadamente 8 segundos para 15 ms ao indexar mais de 150 mil documentos no Elasticsearch, em três servidores redundantes no Docker Swarm."
+
+[content.role.03.point.2]
+en = "Built an asynchronous ticketing platform connecting students with the college office and routing requests from college departments to IT. The platform was used for hundreds of requests per week, based on an approximate recollection of usage."
+pt = "Desenvolvi uma plataforma assíncrona de chamados que conectava alunos à secretaria da faculdade e encaminhava solicitações dos departamentos à TI. A plataforma recebia centenas de solicitações por semana, segundo minha estimativa de uso na época."
+pt-BR = "Desenvolvi uma plataforma assíncrona de chamados que conectava alunos à secretaria da faculdade e encaminhava solicitações dos departamentos à TI. A plataforma recebia centenas de solicitações por semana, segundo minha estimativa de uso na época."
+
+[content.role.03.point.3]
+en = "Developed React and React Native replacements for legacy PHP applications and hardened supporting servers through firewall configuration and system updates."
+pt = "Desenvolvi alternativas em React e React Native para aplicações PHP legadas e reforcei a segurança dos servidores com configuração de firewall e atualizações do sistema."
+pt-BR = "Desenvolvi alternativas em React e React Native para aplicações PHP legadas e reforcei a segurança dos servidores com configuração de firewall e atualizações do sistema."
+
+[content.role.03.point.4]
+en = "Maintained mail and DNS services, WHM/cPanel servers, and Active Directory configurations on student PCs, alongside computer and server maintenance."
+pt = "Administrei serviços de e-mail e DNS, servidores WHM/cPanel e configurações de Active Directory nos PCs dos alunos, além de realizar a manutenção de computadores e servidores."
+pt-BR = "Administrei serviços de e-mail e DNS, servidores WHM/cPanel e configurações de Active Directory nos PCs dos alunos, além de realizar a manutenção de computadores e servidores."
+
+[content.role.03.title]
+en = "Software Development and DevOps Intern"
+pt = "Estagiário de Desenvolvimento de Software e DevOps"
+pt-BR = "Estagiário de Desenvolvimento de Software e DevOps"
+
+[content.role.04.location]
+en = "São Paulo, SP, Brazil · Remote"
+pt = "São Paulo, SP, Brasil · Remoto"
+pt-BR = "São Paulo, SP, Brasil · Remoto"
+
+[content.role.04.period]
+en = "Jun 2024 – Jan 2025"
+pt = "Jun 2024 – Jan 2025"
+pt-BR = "Jun 2024 – Jan 2025"
+
+[content.role.04.point.1]
+en = "Reduced document translation and review time by 30% by developing a formatting-preserving desktop translator in Python, Rust, and Tauri with DeepL and OpenAI integrations; later released it as the open-source AI Translator."
+pt = "Reduzi o tempo de tradução e revisão de documentos em 30% ao desenvolver um tradutor desktop que preserva a formatação, com Python, Rust, Tauri e integrações ao DeepL e OpenAI. Depois, publiquei o aplicativo como AI Translator, um projeto de código aberto."
+pt-BR = "Reduzi o tempo de tradução e revisão de documentos em 30% ao desenvolver um tradutor desktop que preserva a formatação, com Python, Rust, Tauri e integrações ao DeepL e OpenAI. Depois, publiquei o aplicativo como AI Translator, um projeto de código aberto."
+
+[content.role.04.point.2]
+en = "Reduced client-report preparation time by 25% through Excel formula improvements, task automation, and report-layout changes."
+pt = "Reduzi o tempo de preparação de relatórios para clientes em 25% com melhorias nas fórmulas do Excel, automação de tarefas e ajustes no layout dos relatórios."
+pt-BR = "Reduzi o tempo de preparação de relatórios para clientes em 25% com melhorias nas fórmulas do Excel, automação de tarefas e ajustes no layout dos relatórios."
+
+[content.role.04.point.3]
+en = "Built a camera-monitoring system supporting 24/7 recording, Google Drive synchronization, detection alerts, and remote management using Python, OpenCV/RTSP, YOLO, and Node.js. Also configured cameras, multimedia equipment, and mail servers supporting office operations."
+pt = "Desenvolvi um sistema de monitoramento com gravação 24 horas por dia, sincronização com Google Drive, alertas de detecção e gerenciamento remoto, usando Python, OpenCV/RTSP, YOLO e Node.js. Também configurei câmeras, equipamentos multimídia e servidores de e-mail usados na operação do escritório."
+pt-BR = "Desenvolvi um sistema de monitoramento com gravação 24 horas por dia, sincronização com Google Drive, alertas de detecção e gerenciamento remoto, usando Python, OpenCV/RTSP, YOLO e Node.js. Também configurei câmeras, equipamentos multimídia e servidores de e-mail usados na operação do escritório."
+
+[content.role.04.point.4]
+en = "Created an Excel inventory-management tool to track goods and supplies used in company events."
+pt = "Criei uma planilha de estoque no Excel para acompanhar os materiais e suprimentos usados nos eventos da empresa."
+pt-BR = "Criei uma planilha de estoque no Excel para acompanhar os materiais e suprimentos usados nos eventos da empresa."
+
+[content.role.04.title]
+en = "Software Development Intern"
+pt = "Estagiário de Desenvolvimento de Software"
+pt-BR = "Estagiário de Desenvolvimento de Software"

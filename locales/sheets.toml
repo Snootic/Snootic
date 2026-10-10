@@ -1,0 +1,216 @@
+_version = 2
+
+[sheets.identity.title]
+en = "Profile"
+pt = "Apresentação"
+pt-BR = "Apresentação"
+
+[sheets.identity.meta]
+en = "FIG. 00 / KAIK MENDES"
+pt = "FIG. 00 / KAIK MENDES"
+pt-BR = "FIG. 00 / KAIK MENDES"
+
+[sheets.work.title]
+en = "Projects"
+pt = "Projetos"
+pt-BR = "Projetos"
+
+[sheets.work.meta]
+en = "07 PROJECTS / SELECT ONE TO EXPLORE"
+pt = "07 PROJETOS / ESCOLHA UM PARA CONHECER"
+pt-BR = "07 PROJETOS / ESCOLHA UM PARA CONHECER"
+
+[sheets.stack.title]
+en = "Technical skills"
+pt = "Tecnologias"
+pt-BR = "Tecnologias"
+
+[sheets.stack.meta]
+en = "TOOLS USED IN MY WORK"
+pt = "FERRAMENTAS QUE USO NO TRABALHO"
+pt-BR = "FERRAMENTAS QUE USO NO TRABALHO"
+
+[sheets.track.title]
+en = "Career"
+pt = "Trajetória"
+pt-BR = "Trajetória"
+
+[sheets.track.meta]
+en = "PROFESSIONAL EXPERIENCE / SINCE 2024"
+pt = "EXPERIÊNCIA PROFISSIONAL / DESDE 2024"
+pt-BR = "EXPERIÊNCIA PROFISSIONAL / DESDE 2024"
+
+[sheets.contact.title]
+en = "Contact"
+pt = "Contato"
+pt-BR = "Contato"
+
+[sheets.contact.meta]
+en = "CONTACT DETAILS / PROFESSIONAL PROFILES"
+pt = "CONTATOS / PERFIS PROFISSIONAIS"
+pt-BR = "CONTATOS / PERFIS PROFISSIONAIS"
+
+[sheets.identity.view]
+en = "Face"
+pt = "Face"
+pt-BR = "Face"
+
+[sheets.identity.name_role]
+en = "Developer profile"
+pt = "Perfil do desenvolvedor"
+pt-BR = "Perfil do desenvolvedor"
+
+[sheets.identity.download_cv]
+en = "Download résumé"
+pt = "Baixar currículo"
+pt-BR = "Baixar currículo"
+
+[sheets.identity.figure]
+en = "FIG. 00 / São Paulo, Brazil"
+pt = "FIG. 00 / São Paulo, Brasil"
+pt-BR = "FIG. 00 / São Paulo, Brasil"
+
+[sheets.identity.brief]
+en = "Professional summary"
+pt = "Resumo profissional"
+pt-BR = "Resumo profissional"
+
+[sheets.work.view]
+en = "Face"
+pt = "Face"
+pt-BR = "Face"
+
+[sheets.work.featured]
+en = "Featured projects"
+pt = "Projetos em destaque"
+pt-BR = "Projetos em destaque"
+
+[sheets.work.archive]
+en = "Other projects"
+pt = "Outros projetos"
+pt-BR = "Outros projetos"
+
+[sheets.work.records]
+en = "projects"
+pt = "projetos"
+pt-BR = "projetos"
+
+[sheets.work.open_record]
+en = "Project details"
+pt = "Detalhes do projeto"
+pt-BR = "Detalhes do projeto"
+
+[sheets.work.source]
+en = "View code"
+pt = "Ver código"
+pt-BR = "Ver código"
+
+[sheets.work.live]
+en = "Open application"
+pt = "Acessar aplicação"
+pt-BR = "Acessar aplicação"
+
+[sheets.work.live_void]
+en = "No online version"
+pt = "Sem versão online"
+pt-BR = "Sem versão online"
+
+[sheets.stack.view]
+en = "Face"
+pt = "Face"
+pt-BR = "Face"
+
+[sheets.stack.legend.written]
+en = "Links identify projects where each technology was used"
+pt = "Os links indicam os projetos em que cada tecnologia foi utilizada"
+pt-BR = "Os links indicam os projetos em que cada tecnologia foi utilizada"
+
+[sheets.stack.legend.ref]
+en = "REF — indicates no public example"
+pt = "REF — indica que não há exemplo público"
+pt-BR = "REF — indica que não há exemplo público"
+
+[sheets.track.view]
+en = "Face"
+pt = "Face"
+pt-BR = "Face"
+
+[sheets.track.academy]
+en = "Degree"
+pt = "Graduação"
+pt-BR = "Graduação"
+
+[sheets.track.courses_languages]
+en = "Further study and languages"
+pt = "Cursos e idiomas"
+pt-BR = "Cursos e idiomas"
+
+[sheets.track.courses]
+en = "Additional courses"
+pt = "Cursos complementares"
+pt-BR = "Cursos complementares"
+
+[sheets.contact.view]
+en = "Face"
+pt = "Face"
+pt-BR = "Face"
+
+[sheets.contact.direct]
+en = "Contact details"
+pt = "Dados de contato"
+pt-BR = "Dados de contato"
+
+[sheets.contact.phone]
+en = "Phone"
+pt = "Telefone"
+pt-BR = "Telefone"
+
+[sheets.contact.based_in]
+en = "Based in"
+pt = "Localização"
+pt-BR = "Localização"
+
+[sheets.contact.networks]
+en = "Professional profiles"
+pt = "Perfis profissionais"
+pt-BR = "Perfis profissionais"
+
+[sheets.contact.notes_on_set]
+en = "Portfolio navigation guide"
+pt = "Guia de navegação do portfólio"
+pt-BR = "Guia de navegação do portfólio"
+
+[sheets.contact.notes]
+en = "Navigation guide"
+pt = "Guia de navegação"
+pt-BR = "Guia de navegação"
+
+[sheets.contact.key]
+en = "Navigation and references"
+pt = "Navegação e referências"
+pt-BR = "Navegação e referências"
+
+[sheets.contact.note.ring]
+en = "Five faces, five sections: front is 01, right is 02, back is 03, left is 04, and top is 05. The bottom face leaves the section you're reading in place."
+pt = "São cinco faces para cinco seções: frente é 01, direita é 02, trás é 03, esquerda é 04 e topo é 05. A face inferior deixa aberta a seção que você está lendo."
+pt-BR = "São cinco faces para cinco seções: frente é 01, direita é 02, trás é 03, esquerda é 04 e topo é 05. A face inferior deixa aberta a seção que você está lendo."
+
+[sheets.contact.note.evidence_a]
+en = "The skills list links each tool to work where I used it. The marker "
+pt = "A lista de tecnologias liga cada ferramenta a um trabalho em que a usei. O marcador "
+pt-BR = "A lista de tecnologias liga cada ferramenta a um trabalho em que a usei. O marcador "
+
+[sheets.contact.note.evidence_b]
+en = " indicates that a public example isn't available."
+pt = " indica que não há um exemplo público disponível."
+pt-BR = " indica que não há um exemplo público disponível."
+
+[sheets.contact.note.plates]
+en = "Project details include an image viewer. Captions describe the planned content where an image has not yet been added."
+pt = "Os detalhes dos projetos incluem um visualizador de imagens. Quando uma imagem ainda não foi adicionada, a legenda descreve o conteúdo previsto para aquele espaço."
+pt-BR = "Os detalhes dos projetos incluem um visualizador de imagens. Quando uma imagem ainda não foi adicionada, a legenda descreve o conteúdo previsto para aquele espaço."
+
+[sheets.contact.note.register]
+en = "Choose PLOT for a drawing animation or MECH for a direct section change. The header has the switch; the keyboard shortcut is "
+pt = "Escolha PLOT para a animação de desenho ou MECH para trocar de seção diretamente. O seletor fica no cabeçalho; o atalho de teclado é "
+pt-BR = "Escolha PLOT para a animação de desenho ou MECH para trocar de seção diretamente. O seletor fica no cabeçalho; o atalho de teclado é "
