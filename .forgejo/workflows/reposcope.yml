@@ -13,10 +13,10 @@ jobs:
             - name: Checkout target repo
               uses: https://code.forgejo.org/actions/checkout@v7
 
-            - name: Download self-reposcope binary from GitHub Release
+            - name: Download self-reposcope binary from Forgejo Release
               shell: bash
               run: |
-                  curl --fail --location --retry 3 https://github.com/4okimi7uki/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
+                  curl --fail --location --retry 3 ${{ github.server_url }}/snootic/self-reposcope/releases/latest/download/self-reposcope -o self-reposcope
                   chmod +x ./self-reposcope
 
             - name: Run self-reposcope CLI
