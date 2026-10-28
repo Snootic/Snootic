@@ -23,7 +23,7 @@ jobs:
               shell: bash
               run: |
                   mkdir -p output
-                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} --forgejo-url ${{ github.server_url }} --forgejo-token ${{ secrets.FORGEJO_TOKEN }} --excluded-languages ${{ secrets.EXCLUDED_LANGUAGES }}
+                  ./self-reposcope --token ${{ secrets.REPOSCOPE_TOKEN }} --forgejo-url ${{ github.server_url }} --forgejo-token ${{ secrets.REPOSCOPE_FORGEJO_TOKEN }} --excluded-languages ${{ secrets.EXCLUDED_LANGUAGES }}
 
             - name: Commit and Push updated SVGs
               shell: bash
