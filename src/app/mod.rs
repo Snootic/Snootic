@@ -29,7 +29,7 @@ pub fn App() -> impl IntoView {
     });
 
     view! {
-        <Stylesheet id="leptos" href="/pkg/portfolio.css"/>
+        {cfg!(feature = "csr").then(|| view! { <Stylesheet id="leptos" href="/pkg/portfolio.css"/> })}
         <Title text=move || locale::t(TITLE)/>
         <Meta name="description" content=move || locale::t(DESCRIPTION)/>
         <Meta property="og:title" content=move || locale::t(TITLE)/>

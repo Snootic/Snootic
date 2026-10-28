@@ -43,6 +43,7 @@ panic = 'abort'
 
 [package.metadata.leptos]
 output-name = "portfolio"
+hash-files = true
 site-root = "target/site"
 site-pkg-dir = "pkg"
 tailwind-input-file = "./tailwind.css"

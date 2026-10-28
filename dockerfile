@@ -23,11 +23,13 @@ RUN apt-get update -y \
   && rm -rf /var/lib/apt/lists/*
 
 COPY --from=builder /app/target/release/portfolio /app/portfolio
+COPY --from=builder /app/target/release/hash.txt /app/hash.txt
 COPY --from=builder /app/target/site /app/site 
 
 ENV RUST_LOG="info"
 ENV LEPTOS_SITE_ADDR="0.0.0.0:80"
 ENV LEPTOS_SITE_ROOT="site"
+ENV LEPTOS_HASH_FILES="true"
 EXPOSE 80
 
 CMD ["/app/portfolio"]

@@ -5,7 +5,7 @@ async fn main() -> std::io::Result<()> {
     use actix_web::*;
     use leptos::config::get_configuration;
     use leptos::prelude::*;
-    use leptos_meta::MetaTags;
+    use leptos_meta::{HashedStylesheet, MetaTags};
     use portfolio::app::App;
     use portfolio::three::ImportMap;
 
@@ -21,7 +21,11 @@ async fn main() -> std::io::Result<()> {
         let site_root = options.site_root.clone().to_string();
 
         App::new()
-            .service(Files::new("/pkg", format!("{site_root}/pkg")))
+            .service(
+                web::scope("/pkg")
+                    .wrap(middleware::DefaultHeaders::new().add(("Cache-Control", "no-cache")))
+                    .service(Files::new("", format!("{site_root}/pkg"))),
+            )
             .service(Files::new("/assets", &site_root))
             .service(favicon)
             .route(
@@ -48,6 +52,7 @@ async fn main() -> std::io::Result<()> {
 
                                         <AutoReload options=options.clone() />
                                         <HydrationScripts options=options.clone()/>
+                                        <HashedStylesheet id="leptos" options=options.clone()/>
                                         <MetaTags/>
                                     </head>
                                     <body>
