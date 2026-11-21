@@ -434,8 +434,8 @@ const PROJECTS: &[Project] = &[
         ],
         featured: true,
         kind: "content.project.02.kind",
-        source: Some("https://github.com/snootic/mutaria"),
-        live: Some("https://mutaria.coisas-mais-estranhas.com.br"),
+        source: None,
+        live: Some("https://mutaria.app"),
         plates: &[
             Plate {
                 no: "01",
